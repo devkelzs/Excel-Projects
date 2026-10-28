@@ -1,0 +1,1007 @@
+﻿Order ID,Order Date,Product,Product Category,Quantity,Unit Price,Region,Sales Representative,Customer ID,Payment Method
+ORD-001827,2025-06-30,External SSD 1TB,Storage,4.0,114.46,East,David M.,CUST-0247,Cash
+ORD-000937,2025-01-27,Laptop Backpack,Bags,8.0,42.87,South,Amara N.,CUST-0062,Cash
+ORD-001690,2025-03-01,Wireless Mouse,Accessories,3.0,19.22,North,Grace T.,CUST-0477,Mobile Money
+ORD-002597,2025-05-08,Desk Lamp,Furniture,1.0,29.62,North,David M.,CUST-0560,Card
+ORD-000313,2025-12-19,USB-C Hub,Accessories,3.0,38.74,South,Grace T.,CUST-0120,Mobile Money
+ORD-001460,2025-09-19,Ink Cartridge,Stationery,2.0,37.94,East,Miriam A.,CUST-0503,Mobile Money
+ORD-002943,2025-06-04,Printer Paper Box,Stationery,3.0,23.02,Central,Joel K.,CUST-0605,Mobile Money
+ORD-002310,2025-11-08,USB-C Hub,Accessories,5.0,37.72,North,Grace T.,CUST-0407,Cash
+ORD-001333,2025-09-12,Desk Lamp,Furniture,8.0,30.11,East,Joel K.,CUST-0302,Card
+ORD-000969,2025-04-06,Wireless Mouse,Accessories,2.0,17.57,North,Miriam A.,CUST-0118,Mobile Money
+ORD-001455,2025-01-11,External SSD 1TB,Storage,1.0,106.54,Central,Sofia L.,CUST-0472,Cash
+ORD-000661,2025-05-03,Water Bottle,Lifestyle,5.0,15.81,East,David M.,CUST-0538,Bank Transfer
+ORD-001935,2025-04-03,Bluetooth Speaker,Electronics,2.0,45.48,East,David M.,CUST-0041,Cash
+ORD-000936,2025-11-05,Notebook Pack,Stationery,2.0,8.65,South,Miriam A.,CUST-0434,Cash
+ORD-000371,2025-03-07,Webcam HD,Electronics,1.0,54.88,South,Amara N.,CUST-0629,Mobile Money
+ORD-000567,2025-05-25,Ink Cartridge,Stationery,4.0,37.14,North,Miriam A.,CUST-0383,Mobile Money
+ORD-001974,2025-08-20,USB Flash Drive 64GB,Storage,1.0,15.32,North,Sofia L.,CUST-0330,Card
+ORD-001855,2025-03-20,Water Bottle,Lifestyle,4.0,16.6,North,Peter B.,CUST-0233,Cash
+ORD-001025,2025-08-06,Laptop Backpack,Bags,3.0,39.83,West,Amara N.,CUST-0198,Card
+ORD-000825,2025-05-27,USB-C Hub,Accessories,3.0,41.47,East,Sofia L.,CUST-0294,Mobile Money
+ORD-000983,2025-03-08,USB Flash Drive 64GB,Storage,3.0,14.79,North,Grace T.,CUST-0514,Card
+ORD-002443,2025-12-21,27-inch Monitor,Electronics,3.0,229.05,South,Joel K.,CUST-0278,Mobile Money
+ORD-002084,2025-07-08,Desk Lamp,Furniture,1.0,26.97,East,Grace T.,CUST-0544,Bank Transfer
+ORD-001646,2025-12-05,Webcam HD,Electronics,2.0,55.5,Central,Joel K.,CUST-0163,Cash
+ORD-002772,2025-04-29,Water Bottle,Lifestyle,3.0,16.03,East,Grace T.,CUST-0286,Bank Transfer
+ORD-002261,2025-07-13,Mechanical Keyboard,Accessories,5.0,62.43,Central,David M.,CUST-0123,Card
+ORD-002214,2025-07-15,USB Flash Drive 64GB,Storage,3.0,14.86,West,Miriam A.,CUST-0344,Bank Transfer
+ORD-000814,2025-12-14,Notebook Pack,Stationery,1.0,8.74,South,Peter B.,CUST-0320,Card
+ORD-001793,2025-10-06,Mechanical Keyboard,Accessories,1.0,64.28,North,Grace T.,CUST-0472,Cash
+ORD-001431,2025-11-14,USB-C Hub,Accessories,3.0,37.92,Central,Sofia L.,CUST-0384,Card
+ORD-000779,2025-07-03,Notebook Pack,Stationery,2.0,9.11,East,Peter B.,CUST-0488,Card
+ORD-001750,2025-05-24,Printer Paper Box,Stationery,1.0,22.75,North,Amara N.,CUST-0538,Bank Transfer
+ORD-001321,2025-11-18,Printer Paper Box,Stationery,8.0,25.47,East,Sofia L.,CUST-0548,Cash
+ORD-002121,2025-12-28,Bluetooth Speaker,Electronics,3.0,45.32,South,Joel K.,CUST-0418,Card
+ORD-002974,2025-05-24,USB-C Hub,Accessories,6.0,39.53,Central,Miriam A.,CUST-0629,Bank Transfer
+ORD-001053,2025-06-20,USB-C Hub,Accessories,1.0,41.95,West,Peter B.,CUST-0103,Cash
+ORD-002909,2025-10-11,Desk Lamp,Furniture,1.0,29.47,South,Sofia L.,CUST-0278,Bank Transfer
+ORD-001014,2025-10-02,Ink Cartridge,Stationery,2.0,38.18,East,Miriam A.,CUST-0642,Mobile Money
+ORD-001929,2025-07-10,Ink Cartridge,Stationery,4.0,38.41,Central,Miriam A.,CUST-0544,Card
+ORD-002263,2025-11-07,Laptop Stand,Accessories,2.0,30.14,North,Grace T.,CUST-0416,Bank Transfer
+ORD-000127,2025-12-08,USB-C Hub,Accessories,3.0,39.51,East,Peter B.,CUST-0419,Card
+ORD-002107,2025-08-14,Water Bottle,Lifestyle,1.0,16.43,South,Sofia L.,CUST-0194,Cash
+ORD-001348,2025-10-14,Office Chair,Furniture,4.0,194.86,South,Peter B.,CUST-0604,Card
+ORD-000356,2025-08-10,External SSD 1TB,Storage,2.0,110.84,West,Sofia L.,CUST-0201,Mobile Money
+ORD-000828,2025-01-26,USB Flash Drive 64GB,Storage,3.0,14.43,North,Peter B.,CUST-0498,Card
+ORD-001640,2025-12-14,Webcam HD,Electronics,6.0,51.86,South,Joel K.,CUST-0582,Mobile Money
+ORD-000985,2025-04-11,USB Flash Drive 64GB,Storage,1.0,15.68,East,David M.,CUST-0619,Mobile Money
+ORD-000363,2025-03-15,desk lamp,Furniture,2.0,28.78,South,Joel K.,CUST-0316,Cash
+ORD-000346,2025-02-07,27-inch Monitor,Electronics,2.0,226.89,North,Grace T.,CUST-0448,Mobile Money
+ORD-002074,2025-07-24,USB-C Hub,Accessories,2.0,41.56,North,Joel K.,CUST-0234,Mobile Money
+ORD-000712,2025-09-06,Water Bottle,Lifestyle,1.0,16.16,West,David M.,CUST-0629,Card
+ORD-002458,2025-12-21,Ink Cartridge,Stationery,1.0,38.61,North,Miriam A.,CUST-0602,Card
+ORD-000011,2025-09-13,Laptop Backpack,Bags,1.0,40.24,Central,Miriam A.,CUST-0270,Cash
+ORD-002432,2025-07-16,Wireless Mouse,Accessories,3.0,18.67,South,Joel K.,CUST-0659,Card
+ORD-001835,2025-12-24,Webcam HD,Electronics,2.0,57.2,East,Peter B.,CUST-0352,Bank Transfer
+ORD-000794,2025-10-31,Office Chair,Furniture,1.0,196.19,North,Peter B.,CUST-0102,Mobile Money
+ORD-002783,2025-10-12,External SSD 1TB,Storage,5.0,110.6,South,Joel K.,CUST-0043,Card
+ORD-000095,2025-12-24,Desk Lamp,Furniture,3.0,26.89,South,Peter B.,CUST-0590,Card
+ORD-000130,2025-09-09,Mechanical Keyboard,Accessories,3.0,62.93,West,David M.,CUST-0372,Card
+ORD-002923,2025-09-30,27-inch Monitor,Electronics,1.0,237.32,North,Grace T.,CUST-0158,Card
+ORD-001901,2025-02-08,Webcam HD,Electronics,1.0,55.41,Central,Peter B.,CUST-0544,Bank Transfer
+ORD-002411,2025-06-21,Mechanical Keyboard,Accessories,2.0,66.41,East,Sofia L.,CUST-0596,Mobile Money
+ORD-001933,2025-08-29,Laptop Stand,Accessories,2.0,31.0,South,Sofia L.,CUST-0105,Card
+ORD-002162,2025-04-14,Mechanical Keyboard,Accessories,4.0,62.87,Central,Grace T.,CUST-0068,Cash
+ORD-001866,2025-12-14,USB-C Hub,Accessories,3.0,38.51,North,David M.,CUST-0071,Card
+ORD-001659,2025-11-04,External SSD 1TB,Storage,1.0,107.75,South,Miriam A.,CUST-0243,Card
+ORD-000517,2025-09-26,Webcam HD,Electronics,3.0,55.34,South,Peter B.,CUST-0351,Cash
+ORD-001858,2025-11-03,27-inch Monitor,Electronics,4.0,232.96,Central,Sofia L.,CUST-0120,Mobile Money
+ORD-001278,2025-05-10,Wireless Mouse,Accessories,4.0,18.89,South,Amara N.,CUST-0069,Card
+ORD-000951,2025-07-17,Mechanical Keyboard,Accessories,5.0,62.99,East,Joel K.,CUST-0546,Cash
+ORD-001121,2025-10-08,Desk Lamp,Furniture,5.0,27.46,North,Amara N.,CUST-0677,Bank Transfer
+ORD-000420,2025-08-01,Notebook Pack,Stationery,2.0,9.14,East,Grace T.,CUST-0111,Cash
+ORD-000923,2025-11-22,Ink Cartridge,Stationery,2.0,,East,Miriam A.,CUST-0047,Cash
+ORD-002442,2025-06-22,Webcam HD,Electronics,6.0,58.34,North,Peter B.,CUST-0484,Mobile Money
+ORD-000478,2025-06-14,USB Flash Drive 64GB,Storage,2.0,14.34,Central,Sofia L.,CUST-0262,Card
+ORD-002036,2025-12-10,Bluetooth Speaker,Electronics,6.0,45.08,South,Sofia L.,CUST-0178,Card
+ORD-002211,2025-11-18,Ink Cartridge,Stationery,1.0,36.35,South,Miriam A.,CUST-0562,Mobile Money
+ORD-001693,2025-11-18,Water Bottle,Lifestyle,2.0,15.7,West,Miriam A.,CUST-0027,Cash
+ORD-002228,2025-09-30,Laptop Stand,Accessories,8.0,34.2,East,Miriam A.,CUST-0632,Mobile Money
+ORD-001472,2025-11-27,Desk Lamp,Furniture,5.0,30.16,South,Joel K.,CUST-0072,Card
+ORD-001203,2025-01-12,External SSD 1TB,Storage,2.0,106.25,East,Grace T.,CUST-0425,Mobile Money
+ORD-001670,2025-08-24,Desk Lamp,Furniture,2.0,29.54,West,Grace T.,CUST-0512,Bank Transfer
+ORD-002792,2025-06-12,Wireless Mouse,Accessories,1.0,19.69,North,Amara N.,CUST-0452,Mobile Money
+ORD-001971,2025-07-08,Wireless Mouse,Accessories,1.0,19.44,West,Miriam A.,CUST-0401,Cash
+ORD-000821,2025-09-10,Office Chair,Furniture,2.0,190.93,South,Joel K.,CUST-0412,Bank Transfer
+ORD-001998,2025-05-13,Laptop Backpack,Bags,4.0,44.69,Central,Miriam A.,CUST-0548,Bank Transfer
+ORD-002886,2025-09-08,Laptop Stand,Accessories,2.0,34.08,South,Peter B.,CUST-0039,Mobile Money
+ORD-001249,2025-09-17,Water Bottle,Lifestyle,2.0,15.27,North,Peter B.,CUST-0255,Card
+ORD-002678,2025-11-16,Desk Lamp,Furniture,5.0,27.16,Central,Joel K.,CUST-0021,Card
+ORD-002631,2025-11-18,Office Chair,Furniture,2.0,182.71,West,Grace T.,CUST-0639,Bank Transfer
+ORD-001047,2025-02-17,Wireless Mouse,Accessories,2.0,18.64,East,Joel K.,CUST-0485,Bank Transfer
+ORD-001889,2025-08-16,External SSD 1TB,Storage,2.0,110.43,North,Amara N.,CUST-0579,Mobile Money
+ORD-000616,2025-08-20,27-inch Monitor,Electronics,3.0,235.15,West,Miriam A.,CUST-0680,Card
+ORD-001319,2025-08-22,Office Chair,Furniture,1.0,196.41,North,Miriam A.,CUST-0345,Bank Transfer
+ORD-002902,2025-12-16,Notebook Pack,Stationery,3.0,8.47,West,Sofia L.,CUST-0464,Card
+ORD-002476,2025-06-08,Ink Cartridge,Stationery,1.0,34.59,Central,Grace T.,CUST-0548,Card
+ORD-001773,2025-12-12,External SSD 1TB,Storage,1.0,110.31,East,Sofia L.,CUST-0226,Mobile Money
+ORD-002970,2025-02-19,Office Chair,Furniture,1.0,193.42,North,Grace T.,CUST-0291,Card
+ORD-000132,2025-09-21,Wireless Mouse,Accessories,1.0,18.19,South,Sofia L.,CUST-0579,Mobile Money
+ORD-000078,2025-05-16,Desk Lamp,Furniture,1.0,27.58,East,Grace T.,CUST-0287,Bank Transfer
+ORD-002053,2025-03-01,Laptop Stand,Accessories,1.0,31.6,North,Miriam A.,CUST-0193,Mobile Money
+ORD-000725,2025-11-03,Laptop Stand,Accessories,1.0,32.56,Central,David M.,CUST-0065,Mobile Money
+ORD-001315,2025-04-05,External SSD 1TB,Storage,1.0,110.3,North,Grace T.,CUST-0146,Card
+ORD-001852,2025-11-18,USB Flash Drive 64GB,Storage,3.0,15.87,Central,Sofia L.,CUST-0089,Card
+ORD-002620,2025-12-01,Bluetooth Speaker,Electronics,2.0,49.63,South,Amara N.,CUST-0185,Cash
+ORD-002502,2025-02-07,Webcam HD,Electronics,1.0,58.82,South,Sofia L.,CUST-0565,Card
+ORD-001373,2025-08-06,Printer Paper Box,Stationery,5.0,23.28,South,Grace T.,CUST-0340,Cash
+ORD-001856,2025-08-15,Printer Paper Box,Stationery,1.0,23.71,North,Amara N.,CUST-0464,Mobile Money
+ORD-001320,2025-11-19,Bluetooth Speaker,Electronics,4.0,46.76,Central,Joel K.,CUST-0438,Card
+ORD-002892,2025-07-11,Wireless Mouse,Accessories,6.0,19.55,North,Miriam A.,CUST-0681,Card
+ORD-002187,2025-03-31,USB-C Hub,Accessories,1.0,41.65,East,Joel K.,CUST-0647,Mobile Money
+ORD-000376,2025-10-08,Webcam HD,Electronics,1.0,56.39,East,Miriam A.,CUST-0058,Mobile Money
+ORD-001909,2025-08-20,Laptop Backpack,Bags,1.0,43.42,Central,Amara N.,CUST-0330,Cash
+ORD-000334,2025-01-16,USB-C Hub,Accessories,1.0,38.29,West,Amara N.,CUST-0009,Bank Transfer
+ORD-002267,2025-08-12,Wireless Mouse,Accessories,1.0,18.84,South,Joel K.,CUST-0195,Mobile Money
+ORD-002317,2025-09-15,Water Bottle,Lifestyle,2.0,15.42,West,Sofia L.,CUST-0001,Mobile Money
+ORD-001605,2025-11-02,Notebook Pack,Stationery,1.0,9.6,West,Sofia L.,CUST-0676,Card
+ORD-001119,2025-02-02,Printer Paper Box,Stationery,2.0,23.52,South,David M.,CUST-0345,Cash
+ORD-002846,2025-04-13,USB Flash Drive 64GB,Storage,2.0,14.67,North,Joel K.,CUST-0210,Bank Transfer
+ORD-001944,2025-03-24,Webcam HD,Electronics,6.0,56.03,Central,David M.,CUST-0076,Mobile Money
+ORD-002277,2025-07-19,Water Bottle,Lifestyle,10.0,15.6,West,Peter B.,CUST-0609,Cash
+ORD-002660,2025-06-30,Bluetooth Speaker,Electronics,5.0,48.59,East,Peter B.,CUST-0383,Card
+ORD-001343,2025-08-21,Bluetooth Speaker,Electronics,5.0,50.06,North,David M.,CUST-0124,Cash
+ORD-000321,2025-04-28,USB-C Hub,Accessories,2.0,42.23,South,David M.,CUST-0603,Bank Transfer
+ORD-001620,2025-05-10,Office Chair,Furniture,5.0,184.09,North,Joel K.,CUST-0207,Card
+ORD-002463,2025-09-19,Notebook Pack,Stationery,4.0,8.6,Central,Peter B.,CUST-0114,Card
+ORD-002061,2025-03-02,27-inch Monitor,Electronics,3.0,218.7,South,Amara N.,CUST-0472,Cash
+ORD-001674,2025-07-27,Webcam HD,Electronics,1.0,58.45,South,Amara N.,CUST-0017,Cash
+ORD-001943,2025-04-13,Water Bottle,Lifestyle,1.0,15.09,South,Sofia L.,CUST-0418,Mobile Money
+ORD-000261,2025-12-17,External SSD 1TB,Storage,2.0,106.36,Central,Miriam A.,CUST-0180,Cash
+ORD-002370,2025-10-30,27-inch Monitor,Electronics,6.0,229.71,South,Joel K.,CUST-0588,Card
+ORD-002040,2025-09-06,Webcam HD,Electronics,5.0,55.12,East,Grace T.,CUST-0372,Bank Transfer
+ORD-000690,2025-11-08,USB FLASH DRIVE 64GB,Storage,2.0,15.15,East,Amara N.,CUST-0039,Cash
+ORD-000902,2025-12-15,27-inch Monitor,Electronics,4.0,236.62,Central,Amara N.,CUST-0087,Bank Transfer
+ORD-002027,2025-03-23,Desk Lamp,Furniture,2.0,30.43,East,Miriam A.,CUST-0648,Bank Transfer
+ORD-000139,2025-09-03,27-inch Monitor,Electronics,1.0,234.11,Central,Peter B.,CUST-0333,Cash
+ORD-001918,2025-04-05,USB Flash Drive 64GB,Storage,2.0,16.02,East,Peter B.,CUST-0051,Bank Transfer
+ORD-001829,2025-03-24,USB-C Hub,Accessories,1.0,38.84,East,Miriam A.,CUST-0245,Cash
+ORD-001574,2025-05-20,External SSD 1TB,Storage,1.0,106.79,North,Peter B.,CUST-0416,Bank Transfer
+ORD-000320,2025-08-14,Laptop Stand,Accessories,3.0,32.8,South,Grace T.,CUST-0034,Cash
+ORD-000654,2025-06-11,Notebook Pack,Stationery,2.0,9.2,North,Peter B.,CUST-0207,Bank Transfer
+ORD-002138,2025-03-27,Office Chair,Furniture,1.0,198.92,West,Sofia L.,CUST-0454,Bank Transfer
+ORD-002338,2025-10-08,USB Flash Drive 64GB,Storage,1.0,14.97,South,Miriam A.,CUST-0277,Cash
+ORD-000559,2025-06-06,Wireless Mouse,Accessories,1.0,17.95,East,Peter B.,CUST-0082,Mobile Money
+ORD-000113,2025-12-25,Laptop Stand,Accessories,2.0,32.97,North,Amara N.,CUST-0333,Card
+ORD-000532,2025-11-30,Office Chair,Furniture,1.0,196.92,Central,Miriam A.,CUST-0238,Mobile Money
+ORD-000225,2025-12-19,Office Chair,Furniture,4.0,195.48,North,Miriam A.,CUST-0486,Bank Transfer
+ORD-000724,2025-01-21,Mechanical Keyboard,Accessories,5.0,68.02,North,Joel K.,CUST-0626,Mobile Money
+ORD-002444,2025-09-18,Desk Lamp,Furniture,3.0,27.98,East,David M.,CUST-0186,Bank Transfer
+ORD-002587,2025-08-28,Laptop Backpack,Bags,1.0,43.12,North,Joel K.,CUST-0454,Bank Transfer
+ORD-001434,2025-11-29,Office Chair,Furniture,4.0,195.61,West,Miriam A.,CUST-0404,Card
+ORD-002345,2025-10-08,Mechanical Keyboard,Accessories,4.0,62.29,East,Amara N.,CUST-0140,Card
+ORD-001459,2025-05-25,Desk Lamp,Furniture,2.0,28.52,South,Miriam A.,CUST-0599,Mobile Money
+ORD-002719,2025-11-06,Water Bottle,Lifestyle,2.0,15.32,Central,Amara N.,CUST-0544,Mobile Money
+ORD-000847,2025-09-05,USB-C Hub,Accessories,8.0,38.0,Central,Amara N.,CUST-0015,Cash
+ORD-000194,2025-05-20,Ink Cartridge,Stationery,1.0,36.42,West,Amara N.,CUST-0362,Cash
+ORD-001465,2025-12-06,Printer Paper Box,Stationery,1.0,24.22,East,Sofia L.,CUST-0476,Mobile Money
+ORD-000947,2025-07-23,Bluetooth Speaker,Electronics,1.0,50.73,West,Amara N.,CUST-0285,Cash
+ORD-002022,2025-12-05,Laptop Stand,Accessories,1.0,33.28,North,Amara N.,CUST-0363,Mobile Money
+ORD-001630,2025-08-03,Wireless Mouse,Accessories,3.0,19.58,Central,Peter B.,CUST-0396,Bank Transfer
+ORD-000118,2025-12-28,Water Bottle,Lifestyle,1.0,15.83,East,Miriam A.,CUST-0303,Bank Transfer
+ORD-000646,2025-01-05,Mechanical Keyboard,Accessories,3.0,61.4,North,Peter B.,CUST-0592,Bank Transfer
+ORD-001871,2025-07-08,Mechanical Keyboard,Accessories,2.0,66.27,West,David M.,CUST-0541,Bank Transfer
+ORD-000004,2025-05-05,Bluetooth Speaker,Electronics,8.0,46.73,North,Joel K.,CUST-0100,Bank Transfer
+ORD-000075,2025-01-14,Water Bottle,Lifestyle,1.0,17.04,West,Peter B.,CUST-0157,Cash
+ORD-001756,2025-06-20,External SSD 1TB,Storage,3.0,104.26,Central,Sofia L.,CUST-0522,Cash
+ORD-000468,2025-06-23,Office Chair,Furniture,4.0,191.12,East,Peter B.,CUST-0567,Mobile Money
+ORD-000006,2025-08-27,Notebook Pack,Stationery,2.0,9.27,North,Peter B.,CUST-0234,Bank Transfer
+ORD-001247,2025-06-07,27-inch Monitor,Electronics,2.0,228.09,East,Amara N.,CUST-0452,Bank Transfer
+ORD-000920,2025-03-24,Water Bottle,Lifestyle,1.0,16.18,North,Sofia L.,CUST-0046,Cash
+ORD-000229,2025-08-18,Desk Lamp,Furniture,10.0,28.56,West,Grace T.,CUST-0178,Cash
+ORD-001064,2025-10-05,Office Chair,Furniture,1.0,194.01,North,Miriam A.,CUST-0328,Bank Transfer
+ORD-000243,2025-11-17,Desk Lamp,Furniture,1.0,29.27,South,David M.,CUST-0489,Bank Transfer
+ORD-002579,2025-08-23,Laptop Stand,Accessories,1.0,33.92,central,Miriam A.,CUST-0693,Cash
+ORD-001161,2025-03-05,USB-C Hub,Accessories,1.0,37.19,West,David M.,CUST-0187,Cash
+ORD-002530,2025-05-14,Webcam HD,Electronics,1.0,57.81,South,Amara N.,CUST-0171,Mobile Money
+ORD-001527,2025-09-04,USB-C Hub,Accessories,8.0,39.73,Central,Peter B.,CUST-0529,Card
+ORD-001606,2025-11-03,Desk Lamp,Furniture,-3.0,28.88,Central,Miriam A.,CUST-0404,Mobile Money
+ORD-002802,2025-01-12,Ink Cartridge,Stationery,2.0,35.34,South,Peter B.,CUST-0619,Cash
+ORD-002343,2025-03-21,Ink Cartridge,Stationery,2.0,36.55,Central,David M.,CUST-0129,Card
+ORD-002561,2025-12-14,Laptop Backpack,Bags,2.0,44.09,Central,Grace T.,CUST-0485,Cash
+ORD-001990,2025-10-16,Laptop Backpack,Bags,1.0,41.81,South,Sofia L.,CUST-0553,Mobile Money
+ORD-002368,2025-08-30,Laptop Backpack,Bags,1.0,43.18,South,Grace T.,CUST-0518,Card
+ORD-001976,2025-09-02,Notebook Pack,Stationery,1.0,8.78,North,Joel K.,CUST-0452,Cash
+ORD-001762,2025-09-30,USB Flash Drive 64GB,Storage,5.0,15.25,South,Grace T.,CUST-0332,Mobile Money
+ORD-001306,2025-11-29,External SSD 1TB,Storage,1.0,103.24,South,Miriam A.,CUST-0623,Cash
+ORD-001542,2025-10-10,Desk Lamp,Furniture,3.0,28.5,Central,Miriam A.,CUST-0530,Bank Transfer
+ORD-000623,2025-04-11,Printer Paper Box,Stationery,3.0,22.83,West,Miriam A.,CUST-0695,Mobile Money
+ORD-002329,2025-12-03,Ink Cartridge,Stationery,4.0,36.14,East,Joel K.,CUST-0035,Bank Transfer
+ORD-001494,2025-05-01,Ink Cartridge,Stationery,5.0,34.84,West,Sofia L.,CUST-0659,Mobile Money
+ORD-000111,2025-09-13,USB-C Hub,Accessories,5.0,41.51,Central,Joel K.,CUST-0325,Cash
+ORD-002280,2025-11-06,Printer Paper Box,Stationery,-1.0,23.57,East,Miriam A.,CUST-0391,Cash
+ORD-001170,2025-09-02,External SSD 1TB,Storage,1.0,116.3,Central,Amara N.,CUST-0578,Cash
+ORD-002477,2025-11-23,Laptop Stand,Accessories,1.0,31.44,South,Grace T.,CUST-0218,Cash
+ORD-000233,2025-12-13,Notebook Pack,Stationery,8.0,9.39,East,Amara N.,CUST-0295,Card
+ORD-000067,2025-03-15,Webcam HD,Electronics,1.0,54.4,South,Joel K.,CUST-0335,Bank Transfer
+ORD-002725,2025-04-13,Laptop Backpack,Bags,1.0,44.49,East,David M.,CUST-0385,Bank Transfer
+ORD-002073,2025-06-12,Webcam HD,Electronics,2.0,55.68,East,Amara N.,CUST-0171,Card
+ORD-002193,2025-01-23,USB Flash Drive 64GB,Storage,3.0,14.8,South,Amara N.,CUST-0567,Bank Transfer
+ORD-000537,2025-05-04,USB Flash Drive 64GB,Storage,5.0,15.68,Central,Grace T.,CUST-0454,Cash
+ORD-000126,2025-08-27,Notebook Pack,Stationery,1.0,8.72,North,Miriam A.,CUST-0575,Bank Transfer
+ORD-002134,2025-06-08,Ink Cartridge,Stationery,8.0,37.38,North,Miriam A.,CUST-0594,Bank Transfer
+ORD-001255,2025-09-16,Wireless Mouse,Accessories,2.0,17.99,North,Amara N.,CUST-0018,Bank Transfer
+ORD-002500,2025-09-06,External SSD 1TB,Storage,5.0,111.12,East,Joel K.,CUST-0473,Mobile Money
+ORD-001977,2025-09-13,Webcam HD,Electronics,1.0,58.43,South,Peter B.,CUST-0413,Cash
+ORD-002478,2025-04-03,Desk Lamp,Furniture,6.0,29.74,Central,Joel K.,CUST-0211,Cash
+ORD-002342,2025-10-04,Water Bottle,Lifestyle,4.0,16.04,East,Sofia L.,CUST-0532,Bank Transfer
+ORD-002076,2025-04-23,Office Chair,Furniture,1.0,179.1,North,Miriam A.,CUST-0372,Cash
+ORD-000485,2025-08-17,Laptop Backpack,Bags,2.0,41.1,South,Grace T.,CUST-0527,Card
+ORD-001655,2025-08-05,Wireless Mouse,Accessories,3.0,17.44,West,David M.,CUST-0482,Cash
+ORD-002855,2025-02-14,Webcam HD,Electronics,1.0,57.17,South,Joel K.,CUST-0032,Bank Transfer
+ORD-002281,2025-05-15,Webcam HD,Electronics,1.0,58.29,North,Joel K.,CUST-0283,Mobile Money
+ORD-002421,2025-06-03,Bluetooth Speaker,Electronics,4.0,49.6,East,Amara N.,CUST-0421,Cash
+ORD-001775,2025-11-04,Laptop Stand,Accessories,1.0,31.77,South,Joel K.,CUST-0625,Mobile Money
+ORD-000919,2025-05-01,27-inch Monitor,Electronics,1.0,232.81,North,Grace T.,CUST-0291,Mobile Money
+ORD-001647,2025-10-09,External SSD 1TB,Storage,8.0,111.87,South,Joel K.,CUST-0100,Card
+ORD-001027,2025-08-14,Laptop Backpack,Bags,1.0,43.42,South,Joel K.,CUST-0181,Mobile Money
+ORD-001031,2025-08-06,USB Flash Drive 64GB,Storage,2.0,14.69,East,Joel K.,CUST-0576,Cash
+ORD-000883,2025-10-05,Water Bottle,Lifestyle,2.0,15.28,South,Peter B.,CUST-0456,Cash
+ORD-001336,2025-06-21,USB-C Hub,Accessories,8.0,42.05,South,Miriam A.,CUST-0516,Cash
+ORD-002844,2025-10-07,USB Flash Drive 64GB,Storage,3.0,14.11,West,Peter B.,CUST-0068,Cash
+ORD-000365,2025-03-23,External SSD 1TB,Storage,8.0,108.07,North,Peter B.,CUST-0307,Bank Transfer
+ORD-002126,2025-10-20,Mechanical Keyboard,Accessories,2.0,69.17,North,Sofia L.,CUST-0411,Cash
+ORD-000028,2025-03-01,Printer Paper Box,Stationery,1.0,25.01,West,Grace T.,CUST-0434,Cash
+ORD-000474,2025-09-22,External SSD 1TB,Storage,3.0,110.41,South,Miriam A.,CUST-0295,Card
+ORD-000526,2025-10-14,Water Bottle,Lifestyle,1.0,16.2,West,Grace T.,CUST-0315,Bank Transfer
+ORD-000726,2025-07-26,Printer Paper Box,Stationery,1.0,25.6,Central,Miriam A.,CUST-0141,Bank Transfer
+ORD-000056,2025-06-21,Bluetooth Speaker,Electronics,3.0,47.02,West,David M.,CUST-0152,Card
+ORD-000639,2025-05-21,Webcam HD,Electronics,3.0,52.57,North,Peter B.,CUST-0461,Bank Transfer
+ORD-000303,2025-12-11,Ink Cartridge,Stationery,1.0,34.78,South,Miriam A.,CUST-0532,Mobile Money
+ORD-002625,2025-08-28,Laptop Stand,Accessories,5.0,31.91,Central,Grace T.,CUST-0455,Cash
+ORD-001277,2025-10-17,27-inch Monitor,Electronics,2.0,244.06,South,David M.,CUST-0692,Mobile Money
+ORD-002653,2025-10-09,Desk Lamp,Furniture,3.0,28.79,North,Miriam A.,CUST-0185,Card
+ORD-000625,2025-04-05,Bluetooth Speaker,Electronics,5.0,46.56,Central,David M.,CUST-0441,Mobile Money
+ORD-002056,2025-12-26,Mechanical Keyboard,Accessories,1.0,63.44,East,David M.,CUST-0398,Card
+ORD-001281,2025-11-22,Laptop Backpack,Bags,5.0,42.85,West,David M.,CUST-0652,Card
+ORD-001050,2025-10-29,27-inch Monitor,Electronics,1.0,218.92,Central,Grace T.,CUST-0255,Bank Transfer
+ORD-000337,2025-02-19,Wireless Mouse,Accessories,3.0,17.78,East,Peter B.,CUST-0219,Mobile Money
+ORD-000048,2025-06-26,Desk Lamp,Furniture,2.0,30.44,North,Joel K.,CUST-0591,Mobile Money
+ORD-000107,2025-07-11,Bluetooth Speaker,Electronics,10.0,46.12,West,David M.,CUST-0421,Card
+ORD-001080,2025-10-07,Laptop Stand,Accessories,1.0,32.57,South,Amara N.,CUST-0569,Cash
+ORD-001145,2025-04-16,Laptop Backpack,Bags,4.0,41.16,West,David M.,CUST-0250,Card
+ORD-002402,2025-11-01,Desk Lamp,Furniture,3.0,28.0,South,Grace T.,CUST-0251,Mobile Money
+ORD-001837,2025-10-28,USB Flash Drive 64GB,Storage,2.0,15.82,Central,Miriam A.,CUST-0627,Mobile Money
+ORD-001754,2025-04-25,Ink Cartridge,Stationery,4.0,36.03,South,Sofia L.,CUST-0269,Cash
+ORD-001102,2025-04-24,Mechanical Keyboard,Accessories,3.0,69.24,Central,David M.,CUST-0180,Card
+ORD-001969,2025-08-30,Laptop Stand,Accessories,1.0,30.88,East,Joel K.,CUST-0555,Mobile Money
+ORD-000524,2025-08-13,Bluetooth Speaker,Electronics,3.0,46.6,East,Amara N.,CUST-0159,Cash
+ORD-001429,2025-11-02,USB-C Hub,Accessories,1.0,41.06,East,Joel K.,CUST-0406,Mobile Money
+ORD-002624,2025-05-07,Bluetooth Speaker,Electronics,1.0,49.81,South,Grace T.,CUST-0287,Cash
+ORD-000604,2025-03-27,Laptop Stand,Accessories,2.0,31.33,Central,Joel K.,CUST-0081,Card
+ORD-001490,2025-04-23,Laptop Backpack,Bags,1.0,44.83,East,Miriam A.,CUST-0285,Card
+ORD-002367,2025-02-26,Webcam HD,Electronics,6.0,52.05,East,Peter B.,CUST-0555,Mobile Money
+ORD-000061,2025-09-09,Laptop Backpack,Bags,1.0,41.04,East,Grace T.,CUST-0328,Card
+ORD-002767,2025-01-24,Water Bottle,Lifestyle,10.0,15.13,South,Amara N.,CUST-0696,Card
+ORD-000672,2025-02-26,Laptop Backpack,Bags,1.0,41.17,West,Joel K.,CUST-0238,Mobile Money
+ORD-000093,2025-01-26,Office Chair,Furniture,2.0,197.91,East,Joel K.,CUST-0128,Cash
+ORD-000667,2025-05-18,Desk Lamp,Furniture,4.0,29.28,East,David M.,CUST-0162,Bank Transfer
+ORD-001888,2025-02-16,Bluetooth Speaker,Electronics,5.0,46.66,East,Grace T.,CUST-0483,Mobile Money
+ORD-000281,2025-07-14,Desk Lamp,Furniture,2.0,29.97,North,Miriam A.,CUST-0044,Mobile Money
+ORD-001720,2025-08-23,Water Bottle,Lifestyle,4.0,16.53,North,Grace T.,CUST-0373,Card
+ORD-000360,2025-12-03,Laptop Stand,Accessories,2.0,32.73,West,Amara N.,CUST-0607,Card
+ORD-000900,2025-02-12,Ink Cartridge,Stationery,2.0,37.47,South,Sofia L.,CUST-0543,Cash
+ORD-001936,2025-11-24,USB-C Hub,Accessories,8.0,41.84,Central,Sofia L.,CUST-0518,Cash
+ORD-001995,2025-02-27,Webcam HD,Electronics,1.0,56.19,East,Peter B.,CUST-0164,Card
+ORD-002684,2025-09-01,Desk Lamp,Furniture,1.0,30.03,East,Joel K.,CUST-0275,Mobile Money
+ORD-000761,2025-07-19,27-inch Monitor,Electronics,5.0,224.38,East,David M.,CUST-0496,Bank Transfer
+ORD-002159,2025-10-17,27-inch Monitor,Electronics,1.0,241.87,East,Sofia L.,CUST-0236,Bank Transfer
+ORD-002640,2025-12-19,Ink Cartridge,Stationery,1.0,38.16,North,Grace T.,CUST-0578,Mobile Money
+ORD-000043,2025-12-01,Webcam HD,Electronics,3.0,54.07,West,Sofia L.,CUST-0686,Mobile Money
+ORD-002174,2025-06-26,USB-C Hub,Accessories,1.0,41.84,South,Miriam A.,CUST-0297,Bank Transfer
+ORD-000205,2025-09-15,Laptop Backpack,Bags,3.0,41.36,Central,Peter B.,CUST-0602,Mobile Money
+ORD-001474,2025-12-18,Laptop Stand,Accessories,3.0,32.61,Central,Peter B.,CUST-0025,Cash
+ORD-002101,2025-02-14,Mechanical Keyboard,Accessories,4.0,66.67,North,Peter B.,CUST-0677,Bank Transfer
+ORD-000069,2025-01-18,Mechanical Keyboard,Accessories,10.0,64.05,North,Sofia L.,CUST-0668,Card
+ORD-001876,2025-10-27,Wireless Mouse,Accessories,2.0,18.21,West,David M.,CUST-0151,Card
+ORD-002395,2025-11-04,Ink Cartridge,Stationery,3.0,35.34,South,Amara N.,CUST-0626,Mobile Money
+ORD-002232,2025-10-16,USB Flash Drive 64GB,Storage,1.0,15.45,South,Joel K.,CUST-0513,Bank Transfer
+ORD-000138,2025-01-16,Printer Paper Box,Stationery,2.0,22.9,West,Amara N.,CUST-0083,Bank Transfer
+ORD-000797,2025-07-17,27-inch Monitor,Electronics,2.0,226.01,East,Miriam A.,CUST-0042,Card
+ORD-002181,2025-08-04,printer paper box,Stationery,3.0,25.44,Central,Grace T.,CUST-0634,Cash
+ORD-002129,2025-10-19,Printer Paper Box,Stationery,3.0,24.27,East,Miriam A.,CUST-0391,Bank Transfer
+ORD-000759,2025-07-14,Laptop Backpack,Bags,3.0,39.6,South,Amara N.,CUST-0023,Mobile Money
+ORD-000542,2025-07-07,External SSD 1TB,Storage,3.0,114.83,South,David M.,CUST-0208,Mobile Money
+ORD-001020,2025-06-21,External SSD 1TB,Storage,2.0,112.44,North,David M.,CUST-0022,Card
+ORD-002304,2025-06-28,External SSD 1TB,Storage,5.0,110.37,Central,Peter B.,CUST-0188,Card
+ORD-000166,2025-01-23,Laptop Backpack,Bags,10.0,42.34,Central,David M.,CUST-0373,Bank Transfer
+ORD-000249,2025-01-18,Bluetooth Speaker,Electronics,2.0,45.58,East,Sofia L.,CUST-0533,Cash
+ORD-001332,2025-11-22,Ink Cartridge,Stationery,1.0,36.33,East,David M.,CUST-0026,Bank Transfer
+ORD-002018,2025-12-04,Water Bottle,Lifestyle,2.0,15.38,South,Miriam A.,CUST-0342,Mobile Money
+ORD-000447,2025-11-29,Mechanical Keyboard,Accessories,1.0,62.26,South,Grace T.,CUST-0367,Cash
+ORD-001359,2025-05-21,USB-C Hub,Accessories,3.0,38.75,North,Joel K.,CUST-0103,Bank Transfer
+ORD-002146,2025-12-01,Wireless Mouse,Accessories,1.0,18.81,West,Joel K.,CUST-0507,Mobile Money
+ORD-001330,2025-01-23,USB Flash Drive 64GB,Storage,8.0,14.12,East,Miriam A.,CUST-0046,Mobile Money
+ORD-002928,2025-02-07,USB Flash Drive 64GB,Storage,2.0,14.5,Central,Amara N.,CUST-0198,Mobile Money
+ORD-002151,2025-06-09,Webcam HD,Electronics,1.0,52.57,Central,Peter B.,CUST-0239,Bank Transfer
+ORD-000435,2025-02-02,Office Chair,Furniture,6.0,188.86,Central,Miriam A.,CUST-0537,Bank Transfer
+ORD-002123,2025-11-23,Wireless Mouse,Accessories,6.0,18.26,East,Sofia L.,CUST-0310,Cash
+ORD-000578,2025-12-06,Mechanical Keyboard,Accessories,3.0,65.73,North,Grace T.,,Bank Transfer
+ORD-002407,2025-12-31,Printer Paper Box,Stationery,1.0,23.98,South,Joel K.,CUST-0566,Bank Transfer
+ORD-002759,2025-05-26,Printer Paper Box,Stationery,3.0,23.34,North,Joel K.,CUST-0049,Cash
+ORD-001849,2025-02-05,Laptop Stand,Accessories,5.0,30.09,South,Amara N.,CUST-0277,Mobile Money
+ORD-000763,2025-03-06,27-inch Monitor,Electronics,1.0,218.74,East,Miriam A.,CUST-0130,Cash
+ORD-000389,2025-10-06,Ink Cartridge,Stationery,2.0,36.11,Central,Joel K.,CUST-0104,Cash
+ORD-000236,2025-01-14,Desk Lamp,Furniture,3.0,27.16,South,Amara N.,CUST-0564,Mobile Money
+ORD-002622,2025-05-27,USB-C Hub,Accessories,1.0,39.94,North,Joel K.,CUST-0476,Card
+ORD-001985,2025-05-19,Mechanical Keyboard,Accessories,3.0,62.52,Central,Grace T.,CUST-0049,Mobile Money
+ORD-000268,2025-12-23,Bluetooth Speaker,Electronics,2.0,46.13,East,Sofia L.,CUST-0290,Cash
+ORD-000771,2025-12-12,Printer Paper Box,Stationery,1.0,25.22,East,Joel K.,CUST-0382,Card
+ORD-002166,2025-12-25,Mechanical Keyboard,Accessories,1.0,69.41,West,Miriam A.,CUST-0137,Cash
+ORD-000438,2025-02-23,Mechanical Keyboard,Accessories,2.0,66.5,Central,Miriam A.,CUST-0050,Card
+ORD-000674,2025-07-03,Water Bottle,Lifestyle,1.0,16.04,South,Grace T.,CUST-0357,Mobile Money
+ORD-000250,2025-02-07,Water Bottle,Lifestyle,1.0,16.1,North,Joel K.,CUST-0136,Cash
+ORD-002202,2025-05-14,USB-C Hub,Accessories,3.0,37.35,East,David M.,CUST-0452,Card
+ORD-001575,2025-09-21,Webcam HD,Electronics,4.0,53.14,West,Grace T.,CUST-0346,Cash
+ORD-002143,2025-03-10,Webcam HD,Electronics,8.0,57.4,West,Joel K.,CUST-0673,Cash
+ORD-002082,2025-11-22,Notebook Pack,Stationery,2.0,8.62,North,Sofia L.,CUST-0111,Bank Transfer
+ORD-002635,2025-09-09,USB Flash Drive 64GB,Storage,2.0,15.87,Central,David M.,CUST-0178,Mobile Money
+ORD-002585,2025-11-15,Mechanical Keyboard,Accessories,1.0,66.59,East,David M.,CUST-0139,Mobile Money
+ORD-002757,2025-03-09,Mechanical Keyboard,Accessories,3.0,61.71,East,Miriam A.,CUST-0002,Bank Transfer
+ORD-000449,2025-05-13,Water Bottle,Lifestyle,4.0,16.39,South,Amara N.,CUST-0136,Card
+ORD-001470,2025-07-23,Bluetooth Speaker,Electronics,1.0,46.46,North,David M.,CUST-0592,Cash
+ORD-000717,2025-05-10,Printer Paper Box,Stationery,1.0,25.67,North,Grace T.,CUST-0548,Bank Transfer
+ORD-002414,2025-08-18,External SSD 1TB,Storage,2.0,106.7,West,David M.,CUST-0692,Card
+ORD-002632,2025-01-24,Wireless Mouse,Accessories,2.0,18.7,East,Sofia L.,CUST-0003,Cash
+ORD-002049,2025-03-13,Office Chair,Furniture,1.0,178.14,East,Grace T.,CUST-0260,Cash
+ORD-001902,2025-12-06,Bluetooth Speaker,Electronics,8.0,47.27,Central,Sofia L.,CUST-0456,Bank Transfer
+ORD-001169,2025-03-04,USB-C Hub,Accessories,,37.19,East,David M.,CUST-0565,Mobile Money
+ORD-000083,2025-03-24,Water Bottle,Lifestyle,1.0,16.27,Central,Miriam A.,CUST-0290,Card
+ORD-002440,2025-11-27,External SSD 1TB,Storage,2.0,106.89,West,Sofia L.,CUST-0084,Mobile Money
+ORD-001461,2025-06-18,27-inch Monitor,Electronics,2.0,243.51,North,Amara N.,CUST-0406,Mobile Money
+ORD-001894,2025-12-16,Bluetooth Speaker,Electronics,4.0,50.13,North,Amara N.,CUST-0516,Mobile Money
+ORD-001669,2025-01-24,USB-C Hub,Accessories,1.0,41.09,East,Peter B.,CUST-0698,Card
+ORD-002001,2025-09-10,Desk Lamp,Furniture,4.0,29.05,Central,Peter B.,CUST-0068,Card
+ORD-000476,2025-10-07,Laptop Backpack,Bags,4.0,44.46,East,Sofia L.,CUST-0603,Mobile Money
+ORD-000518,2025-09-03,External SSD 1TB,Storage,2.0,104.33,North,David M.,CUST-0536,Cash
+ORD-000405,2025-12-01,Ink Cartridge,Stationery,1.0,35.02,Central,Miriam A.,CUST-0597,Card
+ORD-000385,2025-12-31,Printer Paper Box,Stationery,5.0,24.96,Central,Amara N.,CUST-0187,Bank Transfer
+ORD-002449,2025-06-10,Laptop Backpack,Bags,1.0,41.06,Central,David M.,CUST-0038,Bank Transfer
+ORD-002153,2025-05-15,Desk Lamp,Furniture,3.0,30.01,North,Amara N.,CUST-0144,Mobile Money
+ORD-001634,2025-07-10,27-inch Monitor,Electronics,1.0,227.48,Central,Sofia L.,CUST-0233,Cash
+ORD-002877,2025-06-21,USB-C Hub,Accessories,2.0,40.3,South,Miriam A.,CUST-0281,Bank Transfer
+ORD-000689,2025-08-18,Laptop Backpack,Bags,2.0,40.71,West,Miriam A.,CUST-0008,Cash
+ORD-001241,2025-10-03,Water Bottle,Lifestyle,1.0,15.07,South,Joel K.,CUST-0395,Mobile Money
+ORD-000063,2025-08-14,Mechanical Keyboard,Accessories,1.0,64.64,Central,Peter B.,CUST-0021,Cash
+ORD-000853,2025-02-18,Mechanical Keyboard,Accessories,1.0,68.96,West,Grace T.,CUST-0621,Card
+ORD-002769,2025-02-22,27-inch Monitor,Electronics,4.0,226.53,North,Grace T.,CUST-0551,Bank Transfer
+ORD-002621,2025-12-19,Wireless Mouse,Accessories,1.0,19.75,East,David M.,CUST-0695,Cash
+ORD-001263,2025-02-01,Water Bottle,Lifestyle,6.0,15.35,South,Miriam A.,CUST-0297,Mobile Money
+ORD-000224,2025-09-17,Water Bottle,Lifestyle,3.0,15.66,North,Grace T.,CUST-0340,Card
+ORD-002194,2025-10-12,Water Bottle,Lifestyle,4.0,15.13,West,Sofia L.,CUST-0518,Mobile Money
+ORD-000374,2025-08-16,Notebook Pack,Stationery,6.0,9.04,West,Grace T.,CUST-0185,Card
+ORD-001825,2025-03-25,Laptop Stand,Accessories,2.0,31.01,East,Amara N.,CUST-0403,Bank Transfer
+ORD-002553,2025-02-03,27-inch Monitor,Electronics,1.0,242.19,Central,Peter B.,CUST-0384,Card
+ORD-002887,2025-08-03,Desk Lamp,Furniture,2.0,30.21,East,Peter B.,CUST-0168,Mobile Money
+ORD-002667,2025-10-20,USB-C Hub,Accessories,1.0,41.03,Central,David M.,CUST-0252,Bank Transfer
+ORD-002702,2025-10-19,Wireless Mouse,Accessories,2.0,19.66,Central,Miriam A.,CUST-0182,Card
+ORD-000010,2025-04-02,Desk Lamp,Furniture,2.0,27.04,Central,Peter B.,CUST-0323,Mobile Money
+ORD-001945,2025-07-11,Desk Lamp,Furniture,2.0,27.13,North,Peter B.,CUST-0302,Mobile Money
+ORD-001839,2025-01-11,Wireless Mouse,Accessories,2.0,18.9,North,Joel K.,CUST-0428,Cash
+ORD-000709,2025-12-23,Webcam HD,Electronics,1.0,55.03,North,Peter B.,CUST-0465,Bank Transfer
+ORD-000256,2025-10-10,Laptop Backpack,Bags,3.0,42.45,Central,Joel K.,CUST-0236,Mobile Money
+ORD-001618,2025-09-13,Mechanical Keyboard,Accessories,3.0,64.89,South,Amara N.,CUST-0653,Card
+ORD-000390,2025-11-19,External SSD 1TB,Storage,1.0,103.5,North,Grace T.,CUST-0021,Bank Transfer
+ORD-001582,2025-04-01,Water Bottle,Lifestyle,4.0,15.9,Central,Miriam A.,CUST-0197,Cash
+ORD-000925,2025-09-03,Bluetooth Speaker,Electronics,8.0,48.0,North,Miriam A.,CUST-0535,Mobile Money
+ORD-002037,2025-10-07,USB-C Hub,Accessories,1.0,40.24,North,Peter B.,CUST-0313,Card
+ORD-002419,2025-06-10,USB-C Hub,Accessories,4.0,40.08,West,Joel K.,CUST-0023,Card
+ORD-001225,2025-06-25,Desk Lamp,Furniture,1.0,27.97,North,Peter B.,CUST-0337,Mobile Money
+ORD-001947,2025-07-31,Mechanical Keyboard,Accessories,2.0,61.9,South,Joel K.,CUST-0019,Card
+ORD-000740,2025-12-15,Webcam HD,Electronics,2.0,52.67,South,Peter B.,CUST-0368,Bank Transfer
+ORD-000041,2025-03-10,Notebook Pack,Stationery,5.0,9.38,North,Grace T.,CUST-0216,Mobile Money
+ORD-000869,2025-11-24,Office Chair,Furniture,5.0,192.49,East,Peter B.,CUST-0099,Bank Transfer
+ORD-000540,2025-06-12,Wireless Mouse,Accessories,3.0,18.02,East,Amara N.,CUST-0409,Bank Transfer
+ORD-002527,2025-07-20,27-inch Monitor,Electronics,1.0,224.21,North,Joel K.,CUST-0585,Mobile Money
+ORD-001372,2025-11-11,Notebook Pack,Stationery,4.0,9.1,,Miriam A.,CUST-0216,Bank Transfer
+ORD-001146,2025-08-09,Laptop Stand,Accessories,1.0,30.27,Central,Grace T.,CUST-0106,Cash
+ORD-001032,2025-02-05,Water Bottle,Lifestyle,1.0,16.95,North,Amara N.,CUST-0513,Bank Transfer
+ORD-000373,2025-06-21,External SSD 1TB,Storage,3.0,113.83,North,Joel K.,CUST-0368,Cash
+ORD-000668,2025-02-20,Laptop Stand,Accessories,1.0,31.54,East,Grace T.,CUST-0145,Bank Transfer
+ORD-000358,2025-11-24,Office Chair,Furniture,1.0,190.68,South,Joel K.,CUST-0504,Card
+ORD-000968,2025-09-23,External SSD 1TB,Storage,2.0,105.48,West,Peter B.,CUST-0340,Cash
+ORD-001354,2025-09-05,Laptop Stand,Accessories,1.0,33.57,South,Amara N.,CUST-0613,Card
+ORD-001036,2025-10-21,Printer Paper Box,Stationery,6.0,24.86,South,Joel K.,CUST-0036,Bank Transfer
+ORD-000471,2025-09-29,Office Chair,Furniture,5.0,188.04,North,Miriam A.,CUST-0110,Card
+ORD-001397,2025-11-19,Printer Paper Box,Stationery,1.0,24.97,Central,Miriam A.,CUST-0284,Cash
+ORD-002638,2025-09-24,External SSD 1TB,Storage,10.0,106.48,North,David M.,CUST-0415,Bank Transfer
+ORD-001550,2025-12-17,Webcam HD,Electronics,2.0,58.42,Central,David M.,CUST-0146,Mobile Money
+ORD-001257,2025-07-12,USB Flash Drive 64GB,Storage,3.0,14.58,West,Amara N.,CUST-0362,Bank Transfer
+ORD-002095,2025-11-17,Water Bottle,Lifestyle,3.0,16.39,South,Joel K.,CUST-0605,Cash
+ORD-001556,2025-04-24,USB-C Hub,Accessories,1.0,39.24,South,Joel K.,CUST-0165,Mobile Money
+ORD-002606,2025-04-25,Printer Paper Box,Stationery,3.0,23.82,South,Joel K.,CUST-0191,Bank Transfer
+ORD-001251,2025-12-23,Printer Paper Box,Stationery,2.0,22.88,East,Joel K.,CUST-0211,Mobile Money
+ORD-001700,2025-04-08,27-inch Monitor,Electronics,8.0,219.36,East,Grace T.,CUST-0397,Cash
+ORD-001253,2025-10-28,External SSD 1TB,Storage,1.0,112.12,South,David M.,CUST-0341,Cash
+ORD-002798,2025-12-30,Office Chair,Furniture,4.0,187.6,South,Joel K.,CUST-0339,Cash
+ORD-000080,2025-09-16,Laptop Backpack,Bags,,39.99,South,Joel K.,CUST-0250,Bank Transfer
+ORD-001173,2025-07-25,27-inch Monitor,Electronics,1.0,238.96,West,Miriam A.,CUST-0039,Bank Transfer
+ORD-000815,2025-12-03,Office Chair,Furniture,1.0,181.83,Central,Grace T.,CUST-0039,Cash
+ORD-001853,2025-03-11,Webcam HD,Electronics,2.0,56.62,South,Joel K.,CUST-0647,Bank Transfer
+ORD-002221,2025-11-02,Wireless Mouse,Accessories,1.0,18.39,North,Amara N.,CUST-0328,Card
+ORD-002646,2025-07-08,Printer Paper Box,Stationery,1.0,23.88,East,Joel K.,CUST-0327,Mobile Money
+ORD-002106,2025-08-15,Notebook Pack,Stationery,2.0,8.46,South,Amara N.,CUST-0027,Bank Transfer
+ORD-000134,2025-05-05,27-inch Monitor,Electronics,2.0,239.03,North,Peter B.,CUST-0027,Mobile Money
+ORD-001141,2025-05-29,Webcam HD,Electronics,4.0,56.6,South,Amara N.,CUST-0147,Card
+ORD-000934,2025-02-01,Ink Cartridge,Stationery,3.0,38.65,North,Grace T.,CUST-0568,Card
+ORD-000929,2025-06-03,Laptop Stand,Accessories,8.0,32.33,East,David M.,CUST-0188,Bank Transfer
+ORD-000824,2025-08-12,Laptop Backpack,Bags,1.0,40.3,East,Sofia L.,CUST-0446,Cash
+ORD-001532,2025-01-28,External SSD 1TB,Storage,1.0,102.59,Central,David M.,CUST-0144,Cash
+ORD-001215,2025-03-01,Webcam HD,Electronics,3.0,56.2,North,Amara N.,CUST-0352,Bank Transfer
+ORD-000505,2025-09-28,Webcam HD,Electronics,4.0,52.69,South,David M.,CUST-0580,Mobile Money
+ORD-002983,2025-01-14,Webcam HD,Electronics,1.0,56.84,North,Grace T.,CUST-0676,Mobile Money
+ORD-002396,2025-10-14,27-inch Monitor,Electronics,1.0,221.01,North,Grace T.,CUST-0066,Card
+ORD-001997,2025-08-24,USB-C Hub,Accessories,2.0,41.08,South,Amara N.,CUST-0585,Mobile Money
+ORD-001959,2025-09-19,External SSD 1TB,Storage,1.0,110.47,East,Amara N.,CUST-0513,Bank Transfer
+ORD-001385,2025-01-23,Ink Cartridge,Stationery,5.0,35.58,South,Sofia L.,CUST-0576,Cash
+ORD-000895,2025-12-28,Laptop Stand,Accessories,3.0,33.93,West,Sofia L.,CUST-0469,Card
+ORD-000829,2025-01-29,USB-C Hub,Accessories,1.0,38.66,North,Joel K.,CUST-0373,Card
+ORD-002938,2025-05-15,USB Flash Drive 64GB,Storage,6.0,14.86,East,Peter B.,CUST-0239,Bank Transfer
+ORD-001684,2025-08-04,Printer Paper Box,Stationery,4.0,24.51,North,Miriam A.,CUST-0503,Cash
+ORD-002591,2025-05-07,Laptop Stand,Accessories,3.0,33.68,Central,David M.,CUST-0296,Bank Transfer
+ORD-002575,2025-12-16,Laptop Stand,Accessories,1.0,33.2,West,Peter B.,CUST-0102,Cash
+ORD-002529,2025-08-09,Laptop Backpack,Bags,6.0,39.69,South,Amara N.,CUST-0230,Cash
+ORD-000653,2025-10-07,Wireless Mouse,Accessories,1.0,18.51,North,Peter B.,CUST-0213,Cash
+ORD-000173,2025-09-29,27-inch Monitor,Electronics,2.0,219.85,South,Sofia L.,CUST-0640,Mobile Money
+ORD-000039,2025-10-21,USB Flash Drive 64GB,Storage,1.0,14.95,West,Miriam A.,CUST-0010,Card
+ORD-002878,2025-04-10,Notebook Pack,Stationery,10.0,9.08,North,Amara N.,CUST-0319,Card
+ORD-000714,2025-01-16,27-inch Monitor,Electronics,3.0,215.29,North,Peter B.,CUST-0400,Bank Transfer
+ORD-000091,2025-05-08,Office Chair,Furniture,3.0,194.93,West,Amara N.,CUST-0240,Bank Transfer
+ORD-002973,2025-03-21,Water Bottle,Lifestyle,3.0,16.9,North,David M.,CUST-0649,Bank Transfer
+ORD-001206,2025-11-26,Ink Cartridge,Stationery,1.0,37.33,South,Joel K.,CUST-0326,Mobile Money
+ORD-002602,2025-04-27,Laptop Backpack,Bags,1.0,41.58,East,Sofia L.,CUST-0668,Cash
+ORD-001828,2025-03-05,Mechanical Keyboard,Accessories,1.0,66.06,North,David M.,CUST-0111,Cash
+ORD-001156,2025-02-23,Ink Cartridge,Stationery,2.0,37.99,South,Peter B.,CUST-0090,Mobile Money
+ORD-001325,2025-08-11,USB Flash Drive 64GB,Storage,4.0,14.96,North,Joel K.,CUST-0010,Cash
+ORD-000217,2025-12-17,Laptop Backpack,Bags,8.0,40.65,East,Amara N.,CUST-0052,Bank Transfer
+ORD-000511,2025-07-05,Laptop Backpack,Bags,1.0,39.9,East,David M.,CUST-0154,Mobile Money
+ORD-001681,2025-06-07,Desk Lamp,Furniture,3.0,30.16,East,Peter B.,CUST-0488,Bank Transfer
+ORD-000500,2025-10-11,Water Bottle,Lifestyle,2.0,15.79,East,Joel K.,CUST-0565,Card
+ORD-002495,2025-11-25,Printer Paper Box,Stationery,4.0,25.12,North,David M.,CUST-0313,Mobile Money
+ORD-001857,2025-01-12,Wireless Mouse,Accessories,10.0,19.64,East,Joel K.,CUST-0008,Bank Transfer
+ORD-001389,2025-03-28,Ink Cartridge,Stationery,2.0,35.72,West,Grace T.,CUST-0693,Bank Transfer
+ORD-001520,2025-12-13,Office Chair,Furniture,1.0,198.01,North,Amara N.,CUST-0231,Bank Transfer
+ORD-002387,2025-09-06,Mechanical Keyboard,Accessories,2.0,61.73,East,Miriam A.,CUST-0527,Card
+ORD-002739,2025-05-02,Laptop Backpack,Bags,6.0,40.28,Central,Peter B.,CUST-0069,Bank Transfer
+ORD-002077,2025-12-19,Laptop Backpack,Bags,2.0,44.36,East,Miriam A.,CUST-0067,Bank Transfer
+ORD-001541,2025-10-23,Printer Paper Box,Stationery,1.0,24.48,South,David M.,CUST-0257,Mobile Money
+ORD-001218,2025-04-24,27-inch Monitor,Electronics,1.0,229.6,North,Grace T.,CUST-0565,Bank Transfer
+ORD-001417,2025-03-05,Desk Lamp,Furniture,2.0,29.88,East,David M.,CUST-0182,Bank Transfer
+ORD-002218,2025-03-26,Office Chair,Furniture,3.0,188.6,West,Amara N.,CUST-0182,Mobile Money
+ORD-002535,2025-11-05,Water Bottle,Lifestyle,1.0,15.99,Central,Peter B.,CUST-0545,Cash
+ORD-001677,2025-06-04,USB-C Hub,Accessories,8.0,40.76,Central,Grace T.,CUST-0145,Mobile Money
+ORD-001198,2025-02-06,Laptop Backpack,Bags,2.0,40.45,Central,David M.,CUST-0556,Cash
+ORD-001543,2025-10-05,Desk Lamp,Furniture,2.0,29.24,Central,Peter B.,CUST-0036,Cash
+ORD-000954,2025-01-14,Wireless Mouse,Accessories,2.0,18.9,East,Sofia L.,CUST-0257,Mobile Money
+ORD-000751,2025-10-20,Bluetooth Speaker,Electronics,4.0,45.15,East,Peter B.,CUST-0057,Bank Transfer
+ORD-000235,2025-03-20,External SSD 1TB,Storage,1.0,111.95,Central,David M.,CUST-0654,Mobile Money
+ORD-000733,2025-03-17,Laptop Stand,Accessories,3.0,33.67,Central,Miriam A.,CUST-0225,Cash
+ORD-002862,2025-04-22,Mechanical Keyboard,Accessories,1.0,67.96,West,Grace T.,CUST-0280,Cash
+ORD-001157,2025-06-07,Wireless Mouse,Accessories,2.0,18.53,South,Amara N.,CUST-0062,Bank Transfer
+ORD-002590,2025-07-01,Bluetooth Speaker,Electronics,1.0,44.94,Central,Sofia L.,CUST-0265,Mobile Money
+ORD-002446,2025-07-20,USB-C Hub,Accessories,2.0,37.41,North,Miriam A.,CUST-0653,Card
+ORD-001210,2025-03-21,External SSD 1TB,Storage,1.0,110.05,South,Peter B.,CUST-0388,Bank Transfer
+ORD-001066,2025-07-23,Printer Paper Box,Stationery,1.0,25.09,South,Sofia L.,CUST-0216,Mobile Money
+ORD-002157,2025-12-12,Wireless Mouse,Accessories,3.0,17.54,,Miriam A.,CUST-0397,Mobile Money
+ORD-001063,2025-02-01,Laptop Backpack,Bags,1.0,43.94,East,Sofia L.,CUST-0225,Cash
+ORD-001168,2025-05-04,USB-C Hub,Accessories,2.0,41.13,East,Amara N.,CUST-0246,Bank Transfer
+ORD-001493,2025-03-04,Laptop Backpack,Bags,1.0,40.56,Central,Miriam A.,CUST-0221,Cash
+ORD-002555,2025-12-10,Webcam HD,Electronics,5.0,58.69,West,David M.,CUST-0650,Bank Transfer
+ORD-000885,2025-05-04,Ink Cartridge,Stationery,8.0,38.34,Central,Miriam A.,CUST-0568,Bank Transfer
+ORD-000144,2025-09-14,Notebook Pack,Stationery,5.0,9.55,West,Sofia L.,CUST-0053,Bank Transfer
+ORD-002960,2025-11-30,Laptop Stand,Accessories,2.0,32.34,North,Peter B.,CUST-0075,Card
+ORD-000851,2025-04-15,External SSD 1TB,Storage,2.0,112.16,West,Amara N.,CUST-0011,Cash
+ORD-000718,2025-02-15,Office Chair,Furniture,3.0,182.0,North,Joel K.,CUST-0677,Mobile Money
+ORD-002860,2025-06-18,Wireless Mouse,Accessories,6.0,19.62,South,David M.,CUST-0472,Mobile Money
+ORD-000265,2025-04-21,USB-C Hub,Accessories,6.0,41.48,North,Miriam A.,CUST-0196,Card
+ORD-000076,2025-03-17,USB Flash Drive 64GB,Storage,3.0,15.88,West,Joel K.,CUST-0447,Bank Transfer
+ORD-000396,2025-01-06,Office Chair,Furniture,8.0,,North,Grace T.,CUST-0408,Cash
+ORD-002562,2025-11-22,Webcam HD,Electronics,2.0,56.26,East,Amara N.,CUST-0038,Cash
+ORD-002225,2025-12-22,USB-C Hub,Accessories,1.0,42.18,East,Peter B.,CUST-0637,Mobile Money
+ORD-002817,2025-12-09,Wireless Mouse,Accessories,3.0,19.48,West,Sofia L.,CUST-0376,Mobile Money
+ORD-000397,2025-07-22,USB Flash Drive 64GB,Storage,1.0,15.15,South,Grace T.,CUST-0391,Bank Transfer
+ORD-001366,2025-12-11,External SSD 1TB,Storage,3.0,104.1,West,Grace T.,CUST-0677,Card
+ORD-002517,2025-11-30,27-inch Monitor,Electronics,1.0,219.55,West,Amara N.,CUST-0148,Bank Transfer
+ORD-001904,2025-06-18,Laptop Backpack,Bags,6.0,44.26,North,Sofia L.,CUST-0130,Card
+ORD-000596,2025-10-14,Laptop Stand,Accessories,1.0,30.83,West,Miriam A.,CUST-0346,Mobile Money
+ORD-002110,2025-07-25,Printer Paper Box,Stationery,2.0,25.68,West,Peter B.,CUST-0651,Card
+ORD-001297,2025-09-18,27-inch Monitor,Electronics,4.0,228.33,West,Sofia L.,CUST-0073,Card
+ORD-001822,2025-01-29,Office Chair,Furniture,1.0,178.62,Central,Amara N.,CUST-0041,Card
+ORD-000873,2025-05-14,USB-C Hub,Accessories,5.0,39.58,South,David M.,CUST-0308,Mobile Money
+ORD-002929,2025-09-12,Webcam HD,Electronics,2.0,58.52,North,Sofia L.,CUST-0220,Mobile Money
+ORD-002327,2025-01-02,Wireless Mouse,Accessories,1.0,19.72,West,Joel K.,CUST-0314,Bank Transfer
+ORD-001549,2025-11-04,Office Chair,Furniture,1.0,186.2,West,Joel K.,CUST-0567,Card
+ORD-000037,2025-09-23,Desk Lamp,Furniture,1.0,29.14,East,Miriam A.,CUST-0501,Bank Transfer
+ORD-002543,2025-07-23,Mechanical Keyboard,Accessories,1.0,65.74,East,Peter B.,CUST-0017,Mobile Money
+ORD-002144,2025-05-05,Desk Lamp,Furniture,3.0,28.24,North,Amara N.,CUST-0182,Bank Transfer
+ORD-002863,2025-01-29,USB Flash Drive 64GB,Storage,4.0,16.01,Central,Grace T.,CUST-0266,Card
+ORD-000978,2025-07-15,Webcam HD,Electronics,1.0,54.36,West,Peter B.,CUST-0507,Cash
+ORD-001572,2025-07-02,Desk Lamp,Furniture,2.0,30.46,East,Sofia L.,CUST-0165,Mobile Money
+ORD-001123,2025-05-04,Laptop Stand,Accessories,3.0,32.92,South,Grace T.,CUST-0370,Bank Transfer
+ORD-002240,2025-06-08,27-inch Monitor,Electronics,3.0,215.45,East,Joel K.,CUST-0343,Cash
+ORD-002505,2025-04-06,Notebook Pack,Stationery,1.0,9.03,East,Sofia L.,CUST-0148,Mobile Money
+ORD-001893,2025-11-26,External SSD 1TB,Storage,1.0,112.22,Central,David M.,CUST-0674,Card
+ORD-000676,2025-09-08,External SSD 1TB,Storage,2.0,116.26,West,Amara N.,CUST-0349,Mobile Money
+ORD-000729,2025-03-26,Printer Paper Box,Stationery,4.0,22.61,West,Amara N.,CUST-0007,Card
+ORD-000413,2025-11-07,Mechanical Keyboard,Accessories,1.0,64.95,East,Peter B.,CUST-0204,Bank Transfer
+ORD-001517,2025-10-19,USB-C Hub,Accessories,8.0,41.14,Central,David M.,CUST-0526,Card
+ORD-001650,2025-12-03,Webcam HD,Electronics,1.0,53.84,West,David M.,CUST-0114,Mobile Money
+ORD-000826,2025-04-20,External SSD 1TB,Storage,2.0,104.07,South,Amara N.,CUST-0252,Bank Transfer
+ORD-000617,2025-04-02,Office Chair,Furniture,1.0,194.77,East,Amara N.,CUST-0477,Card
+ORD-000115,2025-03-20,Printer Paper Box,Stationery,3.0,23.31,Central,David M.,CUST-0238,Cash
+ORD-000418,2025-09-01,External SSD 1TB,Storage,1.0,113.87,East,Peter B.,CUST-0659,Bank Transfer
+ORD-001626,2025-03-07,Desk Lamp,Furniture,3.0,28.42,West,Amara N.,CUST-0252,Bank Transfer
+ORD-002957,2025-02-02,USB-C Hub,Accessories,5.0,39.66,South,Amara N.,CUST-0076,Bank Transfer
+ORD-000090,2025-09-06,External SSD 1TB,Storage,1.0,103.52,North,Joel K.,CUST-0462,Cash
+ORD-002083,,USB-C Hub,Accessories,1.0,37.35,West,Amara N.,CUST-0253,Card
+ORD-000754,2025-10-25,Bluetooth Speaker,Electronics,4.0,49.35,East,Grace T.,CUST-0274,Cash
+ORD-001631,2025-10-13,Laptop Backpack,Bags,6.0,40.78,West,Miriam A.,CUST-0257,Bank Transfer
+ORD-000012,2025-12-13,Notebook Pack,Stationery,1.0,9.62,Central,Joel K.,CUST-0094,Card
+ORD-002445,2025-03-27,Notebook Pack,Stationery,1.0,9.45,North,Joel K.,CUST-0119,Bank Transfer
+ORD-000285,2025-11-23,USB-C Hub,Accessories,2.0,42.13,North,Amara N.,CUST-0448,Mobile Money
+ORD-001067,2025-10-02,Webcam HD,Electronics,5.0,56.89,East,Sofia L.,CUST-0676,Mobile Money
+ORD-001192,2025-02-22,27-inch Monitor,Electronics,1.0,244.62,East,Amara N.,CUST-0155,Cash
+ORD-001441,2025-07-24,Laptop Stand,Accessories,3.0,33.42,West,Miriam A.,CUST-0382,Cash
+ORD-002819,2025-11-08,Printer Paper Box,Stationery,1.0,24.15,East,Peter B.,CUST-0414,Bank Transfer
+ORD-002818,2025-07-14,27-inch Monitor,Electronics,2.0,242.83,West,Sofia L.,CUST-0164,Card
+ORD-002728,2025-11-27,USB Flash Drive 64GB,Storage,4.0,15.84,Central,David M.,CUST-0122,Bank Transfer
+ORD-001569,2025-06-26,Laptop Backpack,Bags,5.0,42.61,Central,Amara N.,CUST-0409,Cash
+ORD-002428,2025-04-28,Laptop Stand,Accessories,2.0,31.81,South,Amara N.,CUST-0153,Cash
+ORD-002594,2025-10-23,Printer Paper Box,Stationery,3.0,23.82,South,David M.,CUST-0684,Bank Transfer
+ORD-001688,2025-11-21,Bluetooth Speaker,Electronics,8.0,48.34,North,Grace T.,CUST-0063,Mobile Money
+ORD-000852,2025-03-11,Printer Paper Box,Stationery,3.0,24.79,West,Peter B.,CUST-0612,Bank Transfer
+ORD-002208,2025-12-07,Office Chair,Furniture,4.0,179.69,North,Amara N.,CUST-0265,Bank Transfer
+ORD-000896,2025-12-26,Laptop Stand,Accessories,4.0,30.25,North,David M.,CUST-0646,Card
+ORD-000497,2025-09-08,Laptop Stand,Accessories,1.0,30.37,South,Grace T.,CUST-0498,Cash
+ORD-002306,2025-07-11,Laptop Backpack,Bags,4.0,40.2,South,David M.,CUST-0157,Mobile Money
+ORD-001783,2025-06-01,Water Bottle,Lifestyle,2.0,15.97,West,Amara N.,CUST-0448,Bank Transfer
+ORD-000336,2025-02-12,Office Chair,Furniture,1.0,196.66,South,Peter B.,CUST-0694,Mobile Money
+ORD-000516,2025-12-07,Laptop Backpack,Bags,3.0,42.05,West,David M.,CUST-0225,Cash
+ORD-001349,2025-03-01,Notebook Pack,Stationery,3.0,8.98,East,Joel K.,CUST-0181,Bank Transfer
+ORD-001016,2025-03-13,Desk Lamp,Furniture,1.0,27.58,South,Amara N.,CUST-0674,Bank Transfer
+ORD-002826,2025-01-03,Webcam HD,Electronics,3.0,54.81,South,David M.,CUST-0198,Bank Transfer
+ORD-002821,2025-02-07,Water Bottle,Lifestyle,3.0,16.78,East,Sofia L.,CUST-0613,Card
+ORD-001782,2025-12-22,External SSD 1TB,Storage,3.0,103.38,North,Joel K.,CUST-0586,Bank Transfer
+ORD-001786,2025-04-17,USB Flash Drive 64GB,Storage,2.0,14.66,West,Grace T.,CUST-0191,Mobile Money
+ORD-002071,2025-05-14,Notebook Pack,Stationery,2.0,9.08,West,Grace T.,CUST-0134,Mobile Money
+ORD-000357,2025-03-30,Ink Cartridge,Stationery,1.0,36.88,North,Grace T.,CUST-0002,Cash
+ORD-002870,2025-11-26,Laptop Stand,Accessories,2.0,30.64,North,Peter B.,CUST-0501,Card
+ORD-001313,2025-10-31,Notebook Pack,Stationery,4.0,8.79,South,Miriam A.,CUST-0274,Bank Transfer
+ORD-001636,2025-12-15,Notebook Pack,Stationery,1.0,9.23,South,Peter B.,CUST-0543,Mobile Money
+ORD-000551,2025-03-26,27-inch Monitor,Electronics,2.0,215.55,West,Joel K.,CUST-0138,Bank Transfer
+ORD-002389,2025-01-19,External SSD 1TB,Storage,3.0,104.69,North,David M.,CUST-0156,Card
+ORD-002480,2025-08-07,Notebook Pack,Stationery,1.0,9.17,North,Peter B.,CUST-0342,Bank Transfer
+ORD-002522,2025-08-12,Laptop Stand,Accessories,2.0,30.63,North,Miriam A.,CUST-0684,Card
+ORD-002266,2025-09-15,Ink Cartridge,Stationery,2.0,35.24,East,Miriam A.,CUST-0194,Mobile Money
+ORD-001228,2025-10-14,Desk Lamp,Furniture,4.0,27.52,North,Sofia L.,CUST-0506,Cash
+ORD-002698,2025-08-07,Office Chair,Furniture,3.0,181.82,Central,Peter B.,CUST-0633,Cash
+ORD-000958,2025-05-21,Ink Cartridge,Stationery,1.0,37.53,Central,Amara N.,CUST-0302,Cash
+ORD-001774,2025-11-27,Printer Paper Box,Stationery,1.0,24.48,South,Amara N.,CUST-0585,Bank Transfer
+ORD-002142,2025-04-02,Wireless Mouse,Accessories,3.0,19.01,South,Sofia L.,CUST-0192,Card
+ORD-001009,2025-03-04,Printer Paper Box,Stationery,1.0,24.65,North,Peter B.,CUST-0280,Mobile Money
+ORD-001093,2025-09-26,Water Bottle,Lifestyle,1.0,15.77,Central,Sofia L.,CUST-0289,Bank Transfer
+ORD-002692,2025-10-21,Printer Paper Box,Stationery,1.0,25.61,East,Joel K.,CUST-0439,Card
+ORD-000997,2025-03-14,Water Bottle,Lifestyle,3.0,15.85,South,David M.,CUST-0211,Bank Transfer
+ORD-001680,2025-11-28,27-inch Monitor,Electronics,2.0,244.15,North,Amara N.,CUST-0458,Bank Transfer
+ORD-000154,2025-07-14,Webcam HD,Electronics,1.0,55.5,South,Miriam A.,CUST-0573,Bank Transfer
+ORD-002800,2025-06-01,Notebook Pack,Stationery,3.0,8.51,South,David M.,CUST-0490,Cash
+ORD-000581,2025-10-05,Notebook Pack,Stationery,4.0,8.74,West,Amara N.,CUST-0634,Bank Transfer
+ORD-001471,2025-07-22,Laptop Backpack,Bags,10.0,43.83,West,Miriam A.,CUST-0657,Card
+ORD-000704,2025-05-09,Laptop Stand,Accessories,1.0,32.51,West,Sofia L.,CUST-0692,Mobile Money
+ORD-001213,2025-11-30,Bluetooth Speaker,Electronics,2.0,47.68,North,Joel K.,CUST-0076,Cash
+ORD-000897,2025-11-30,Notebook Pack,Stationery,1.0,8.79,West,Sofia L.,CUST-0519,Cash
+ORD-000488,2025-01-03,Mechanical Keyboard,Accessories,1.0,63.22,North,Miriam A.,CUST-0234,Bank Transfer
+ORD-000560,2025-03-04,Laptop Stand,Accessories,1.0,33.74,Central,Amara N.,CUST-0027,Cash
+ORD-001142,2025-07-15,Printer Paper Box,Stationery,1.0,24.2,North,Miriam A.,CUST-0103,Cash
+ORD-001120,2025-07-17,Ink Cartridge,Stationery,3.0,35.75,East,Grace T.,CUST-0288,Bank Transfer
+ORD-000513,2025-09-16,Bluetooth Speaker,Electronics,2.0,48.65,West,Amara N.,CUST-0250,Card
+ORD-000634,2025-09-24,Mechanical Keyboard,Accessories,2.0,64.91,North,David M.,CUST-0532,Cash
+ORD-002601,2025-06-15,Laptop Backpack,Bags,1.0,41.44,West,Amara N.,CUST-0028,Cash
+ORD-001665,2025-03-18,Bluetooth Speaker,Electronics,3.0,48.99,North,David M.,CUST-0192,Bank Transfer
+ORD-001013,2025-06-01,Desk Lamp,Furniture,4.0,29.31,North,David M.,CUST-0099,Mobile Money
+ORD-001932,2025-12-10,External SSD 1TB,Storage,1.0,105.52,East,David M.,CUST-0539,Bank Transfer
+ORD-001151,2025-06-04,USB Flash Drive 64GB,Storage,6.0,15.38,East,Sofia L.,CUST-0079,Card
+ORD-002823,2025-11-20,Bluetooth Speaker,Electronics,1.0,47.22,West,Grace T.,CUST-0222,Mobile Money
+ORD-000117,2025-02-12,Office Chair,Furniture,3.0,188.09,East,Joel K.,CUST-0310,Mobile Money
+ORD-000741,2025-04-05,Mechanical Keyboard,Accessories,3.0,61.59,South,Amara N.,CUST-0477,Cash
+ORD-002781,2025-08-19,Laptop Stand,Accessories,10.0,30.32,South,Peter B.,CUST-0030,Mobile Money
+ORD-001975,2025-07-25,Webcam HD,Electronics,5.0,55.42,Central,Joel K.,CUST-0658,Cash
+ORD-001082,2025-11-02,USB-C HUB,Accessories,8.0,39.73,East,Miriam A.,CUST-0176,Cash
+ORD-001811,2025-09-12,Water Bottle,Lifestyle,8.0,15.58,Central,Miriam A.,CUST-0339,Bank Transfer
+ORD-000831,2025-07-03,External SSD 1TB,Storage,2.0,113.42,East,Grace T.,CUST-0599,Cash
+ORD-000120,2025-11-08,Notebook Pack,Stationery,1.0,8.67,East,Peter B.,CUST-0676,Mobile Money
+ORD-000657,2025-11-21,27-inch Monitor,Electronics,2.0,233.93,Central,Grace T.,CUST-0474,Cash
+ORD-002750,2025-01-16,Water Bottle,Lifestyle,2.0,16.38,North,Joel K.,CUST-0359,Card
+ORD-002710,2025-07-18,Laptop Stand,Accessories,2.0,32.17,North,Joel K.,CUST-0650,Cash
+ORD-002950,2025-10-07,Bluetooth Speaker,Electronics,2.0,47.49,Central,Sofia L.,CUST-0603,Bank Transfer
+ORD-000636,2025-06-10,Office Chair,Furniture,2.0,188.04,Central,Amara N.,CUST-0530,Mobile Money
+ORD-000370,2025-01-30,Ink Cartridge,Stationery,4.0,36.18,North,Joel K.,CUST-0700,Cash
+ORD-000269,2025-07-21,Notebook Pack,Stationery,1.0,8.87,West,Joel K.,CUST-0101,Cash
+ORD-000047,2025-11-09,Webcam HD,Electronics,2.0,58.72,North,Amara N.,CUST-0611,Cash
+ORD-000992,2025-05-01,Mechanical Keyboard,Accessories,6.0,62.39,East,Miriam A.,CUST-0645,Cash
+ORD-000877,2025-10-15,USB Flash Drive 64GB,Storage,1.0,15.88,South,David M.,CUST-0190,Card
+ORD-000774,2025-11-20,USB-C Hub,Accessories,1.0,38.69,,Grace T.,CUST-0068,Cash
+ORD-001220,2025-10-29,USB Flash Drive 64GB,Storage,8.0,14.29,Central,Grace T.,CUST-0170,Mobile Money
+ORD-001127,2025-03-14,USB Flash Drive 64GB,Storage,5.0,15.57,Central,Grace T.,CUST-0375,Cash
+ORD-000005,2025-11-20,USB Flash Drive 64GB,Storage,4.0,15.51,Central,Amara N.,CUST-0388,Card
+ORD-001596,2025-06-08,Notebook Pack,Stationery,10.0,9.19,East,Joel K.,CUST-0097,Bank Transfer
+ORD-002312,2025-10-21,Desk Lamp,Furniture,1.0,30.08,North,David M.,CUST-0395,Mobile Money
+ORD-002492,2025-04-25,Wireless Mouse,Accessories,2.0,17.81,Central,Sofia L.,CUST-0285,Cash
+ORD-001078,2025-08-04,Desk Lamp,Furniture,1.0,30.16,Central,David M.,CUST-0416,Card
+ORD-000838,2025-04-29,Webcam HD,Electronics,6.0,56.2,West,Sofia L.,CUST-0035,Bank Transfer
+ORD-000682,2025-04-29,Desk Lamp,Furniture,1.0,29.73,East,Joel K.,CUST-0353,Card
+ORD-001716,2025-10-16,USB-C Hub,Accessories,3.0,37.92,North,Joel K.,CUST-0695,Cash
+ORD-002353,2025-01-26,Desk Lamp,Furniture,3.0,30.11,Central,Sofia L.,CUST-0288,Cash
+ORD-002618,2025-07-04,Water Bottle,Lifestyle,1.0,15.38,East,David M.,CUST-0632,Bank Transfer
+ORD-002362,2025-05-12,Bluetooth Speaker,Electronics,1.0,50.46,South,David M.,CUST-0596,Bank Transfer
+ORD-002198,2025-12-29,USB Flash Drive 64GB,Storage,1.0,14.26,Central,Peter B.,CUST-0530,Mobile Money
+ORD-001149,2025-04-10,Notebook Pack,Stationery,1.0,8.84,East,Amara N.,CUST-0045,Mobile Money
+ORD-000575,2025-02-16,Webcam HD,Electronics,1.0,57.71,West,Sofia L.,CUST-0013,Card
+ORD-000051,2025-09-11,Printer Paper Box,Stationery,3.0,24.29,South,Joel K.,CUST-0681,Cash
+ORD-000854,2025-01-17,Printer Paper Box,Stationery,1.0,23.79,East,David M.,CUST-0573,Card
+ORD-001983,2025-09-01,Printer Paper Box,Stationery,1.0,24.9,South,Sofia L.,CUST-0526,Bank Transfer
+ORD-001824,2025-09-17,USB-C Hub,Accessories,4.0,38.59,North,Joel K.,CUST-0621,Bank Transfer
+ORD-000834,2025-07-08,USB Flash Drive 64GB,Storage,5.0,15.92,East,Joel K.,CUST-0377,Bank Transfer
+ORD-001116,2025-09-24,Webcam HD,Electronics,1.0,57.17,East,Peter B.,CUST-0254,Cash
+ORD-001167,2025-07-21,Printer Paper Box,Stationery,4.0,23.07,East,Peter B.,CUST-0435,Mobile Money
+ORD-002519,2025-10-15,Water Bottle,Lifestyle,5.0,15.82,North,David M.,CUST-0691,Mobile Money
+ORD-001907,2025-04-18,USB-C Hub,Accessories,1.0,39.89,East,Grace T.,CUST-0341,Mobile Money
+ORD-000972,2025-11-30,Laptop Stand,Accessories,1.0,32.9,West,Peter B.,CUST-0114,Bank Transfer
+ORD-000400,2025-08-27,Printer Paper Box,Stationery,4.0,23.87,Central,Peter B.,CUST-0487,Mobile Money
+ORD-002560,2025-12-30,Printer Paper Box,Stationery,8.0,25.23,East,Amara N.,CUST-0637,Cash
+ORD-002369,2025-03-11,Mechanical Keyboard,Accessories,4.0,66.03,East,Joel K.,CUST-0404,Bank Transfer
+ORD-000020,2025-10-13,Notebook Pack,Stationery,2.0,9.06,North,David M.,CUST-0231,Card
+ORD-000685,2025-09-23,Printer Paper Box,Stationery,2.0,23.92,South,Peter B.,CUST-0178,Cash
+ORD-000036,2025-12-04,27-inch Monitor,Electronics,1.0,241.75,Central,David M.,CUST-0279,Bank Transfer
+ORD-002847,2025-10-13,Water Bottle,Lifestyle,1.0,16.1,North,Miriam A.,CUST-0330,Cash
+ORD-000525,2025-09-09,USB Flash Drive 64GB,Storage,5.0,14.92,East,Miriam A.,CUST-0283,Cash
+ORD-002456,2025-03-09,Printer Paper Box,Stationery,2.0,24.85,West,Peter B.,CUST-0388,Mobile Money
+ORD-000921,2025-07-10,Laptop Backpack,Bags,5.0,43.75,West,Sofia L.,CUST-0621,Mobile Money
+ORD-001842,2025-01-08,Mechanical Keyboard,Accessories,1.0,68.03,South,Joel K.,CUST-0003,Cash
+ORD-001891,2025-10-08,Bluetooth Speaker,Electronics,1.0,45.25,East,Amara N.,CUST-0602,Cash
+ORD-000538,2025-08-25,External SSD 1TB,Storage,4.0,116.08,West,Peter B.,CUST-0472,Card
+ORD-001706,2025-04-04,Mechanical Keyboard,Accessories,2.0,61.99,South,David M.,CUST-0584,Bank Transfer
+ORD-002949,2025-03-21,USB Flash Drive 64GB,Storage,4.0,15.55,South,Joel K.,CUST-0304,Bank Transfer
+ORD-000246,2025-10-21,Office Chair,Furniture,2.0,183.09,South,Joel K.,CUST-0157,Cash
+ORD-000785,2025-05-30,Webcam HD,Electronics,1.0,52.8,South,Sofia L.,CUST-0193,Card
+ORD-001410,2025-12-07,Wireless Mouse,Accessories,1.0,19.01,East,Peter B.,CUST-0174,Bank Transfer
+ORD-002538,2025-12-27,USB Flash Drive 64GB,Storage,3.0,14.58,North,Amara N.,CUST-0251,Cash
+ORD-000155,2025-02-28,Mechanical Keyboard,Accessories,2.0,64.97,North,Sofia L.,CUST-0321,Cash
+ORD-001687,2025-08-26,USB Flash Drive 64GB,Storage,8.0,15.04,East,Miriam A.,CUST-0550,Mobile Money
+ORD-000626,2025-09-19,Webcam HD,Electronics,1.0,55.67,North,David M.,CUST-0326,Mobile Money
+ORD-002894,2025-09-13,Mechanical Keyboard,Accessories,3.0,63.25,,David M.,CUST-0499,Cash
+ORD-001347,2025-12-02,USB-C Hub,Accessories,3.0,38.95,West,Joel K.,CUST-0646,Cash
+ORD-000570,2025-09-18,USB Flash Drive 64GB,Storage,2.0,15.75,South,David M.,CUST-0297,Card
+ORD-002951,2025-01-13,USB Flash Drive 64GB,Storage,2.0,15.39,North,David M.,CUST-0658,Cash
+ORD-001759,2025-06-13,USB Flash Drive 64GB,Storage,2.0,15.66,East,Grace T.,CUST-0549,Bank Transfer
+ORD-001817,2025-11-05,Ink Cartridge,Stationery,2.0,34.46,East,Amara N.,CUST-0316,Mobile Money
+ORD-002066,2025-09-22,Office Chair,Furniture,4.0,180.21,East,David M.,CUST-0103,Card
+ORD-000128,2025-03-31,Mechanical Keyboard,Accessories,1.0,65.25,North,David M.,CUST-0551,Mobile Money
+ORD-002996,2025-04-30,External SSD 1TB,Storage,4.0,108.16,Central,Amara N.,CUST-0327,Bank Transfer
+ORD-002007,2025-10-01,Printer Paper Box,Stationery,3.0,24.69,South,Grace T.,CUST-0054,Bank Transfer
+ORD-000981,2025-03-03,Office Chair,Furniture,2.0,186.3,Central,Amara N.,CUST-0477,Bank Transfer
+ORD-002993,2025-07-14,laptop backpack,Bags,1.0,44.31,South,Miriam A.,CUST-0038,Mobile Money
+ORD-000191,2025-11-11,USB Flash Drive 64GB,Storage,1.0,14.81,West,Peter B.,CUST-0451,Cash
+ORD-001140,2025-11-06,bluetooth speaker,Electronics,2.0,50.48,South,Peter B.,CUST-0289,Card
+ORD-000993,2025-12-07,Printer Paper Box,Stationery,1.0,23.77,West,Amara N.,CUST-0337,Cash
+ORD-000700,2025-04-15,Webcam HD,Electronics,1.0,56.94,East,Amara N.,CUST-0658,Bank Transfer
+ORD-000607,2025-05-23,External SSD 1TB,Storage,1.0,112.01,West,Joel K.,CUST-0610,Card
+ORD-000181,2025-11-05,Mechanical Keyboard,Accessories,1.0,68.1,South,Sofia L.,CUST-0481,Cash
+ORD-000302,2025-02-08,Notebook Pack,Stationery,1.0,9.17,Central,Peter B.,CUST-0694,Cash
+ORD-002545,2025-09-25,Office Chair,Furniture,8.0,181.33,West,David M.,CUST-0035,Bank Transfer
+ORD-002793,2025-10-21,USB-C Hub,Accessories,2.0,41.28,East,Joel K.,CUST-0056,Bank Transfer
+ORD-001061,2025-03-11,Printer Paper Box,Stationery,2.0,22.57,North,Miriam A.,CUST-0549,Mobile Money
+ORD-002837,2025-01-13,Laptop Backpack,Bags,1.0,43.78,West,Sofia L.,CUST-0544,Mobile Money
+ORD-002896,2025-09-08,Bluetooth Speaker,Electronics,4.0,44.83,South,Joel K.,CUST-0650,Bank Transfer
+ORD-002566,2025-06-19,Webcam HD,Electronics,1.0,54.55,East,Sofia L.,CUST-0290,Card
+ORD-001070,2025-05-26,Mechanical Keyboard,Accessories,4.0,67.09,West,Peter B.,CUST-0168,Mobile Money
+ORD-002525,2025-04-13,Mechanical Keyboard,Accessories,5.0,65.32,East,Grace T.,CUST-0468,Bank Transfer
+ORD-002206,2025-09-19,Bluetooth Speaker,Electronics,5.0,47.19,South,Miriam A.,CUST-0264,Bank Transfer
+ORD-001244,2025-12-28,Bluetooth Speaker,Electronics,4.0,45.81,East,Joel K.,CUST-0169,Bank Transfer
+ORD-000017,2025-09-16,Wireless Mouse,Accessories,1.0,18.26,East,David M.,CUST-0060,Mobile Money
+ORD-002999,2025-10-12,27-inch Monitor,Electronics,2.0,239.11,West,Amara N.,CUST-0387,Card
+ORD-000547,2025-05-01,Wireless Mouse,Accessories,3.0,18.3,North,Grace T.,CUST-0371,Bank Transfer
+ORD-000659,2025-08-11,Notebook Pack,Stationery,1.0,8.63,North,Grace T.,CUST-0385,Mobile Money
+ORD-002722,2025-12-22,Water Bottle,Lifestyle,5.0,15.21,North,Peter B.,CUST-0303,Mobile Money
+ORD-002753,2025-11-10,USB Flash Drive 64GB,Storage,4.0,14.65,Central,Amara N.,CUST-0278,Cash
+ORD-001505,2025-09-05,Laptop Backpack,Bags,4.0,39.59,South,David M.,CUST-0678,Bank Transfer
+ORD-000960,2025-07-14,Laptop Stand,Accessories,1.0,33.98,North,Joel K.,CUST-0530,Bank Transfer
+ORD-002332,2025-12-19,Notebook Pack,Stationery,1.0,9.26,South,Grace T.,CUST-0211,Card
+ORD-000798,2025-05-04,Printer Paper Box,Stationery,1.0,24.43,East,Peter B.,CUST-0455,Mobile Money
+ORD-000226,2025-12-26,External SSD 1TB,Storage,3.0,110.73,South,Miriam A.,CUST-0645,Cash
+ORD-002075,2025-03-10,Laptop Stand,Accessories,1.0,31.17,South,Sofia L.,CUST-0647,Card
+ORD-001800,2025-12-29,Laptop Stand,Accessories,1.0,30.3,West,Joel K.,CUST-0670,Cash
+ORD-002486,2025-06-09,USB Flash Drive 64GB,Storage,1.0,15.46,West,Amara N.,CUST-0036,Card
+ORD-002981,2025-11-09,Mechanical Keyboard,Accessories,4.0,65.42,North,Amara N.,CUST-0004,Cash
+ORD-002278,2025-12-03,Ink Cartridge,Stationery,1.0,35.64,North,David M.,CUST-0352,Bank Transfer
+ORD-002086,2025-03-18,Notebook Pack,Stationery,2.0,9.27,Central,Grace T.,CUST-0509,Card
+ORD-001694,2025-09-13,Webcam HD,Electronics,1.0,57.67,North,Peter B.,CUST-0290,Bank Transfer
+ORD-001046,2025-08-16,Water Bottle,Lifestyle,3.0,15.25,North,Grace T.,CUST-0008,Card
+ORD-000470,2025-07-23,Desk Lamp,Furniture,3.0,29.61,Central,Joel K.,CUST-0597,Cash
+ORD-000955,2025-02-08,Desk Lamp,Furniture,4.0,29.83,Central,Sofia L.,CUST-0243,Card
+ORD-002995,2025-09-08,Laptop Backpack,Bags,2.0,43.7,South,Amara N.,CUST-0228,Cash
+ORD-000640,2025-02-23,Printer Paper Box,Stationery,3.0,25.6,Central,David M.,CUST-0388,Cash
+ORD-002796,2025-02-26,Desk Lamp,Furniture,3.0,30.45,West,Miriam A.,CUST-0056,Bank Transfer
+ORD-001219,2025-07-26,Water Bottle,Lifestyle,2.0,17.01,South,Grace T.,CUST-0178,Mobile Money
+ORD-001159,2025-11-02,27-inch Monitor,Electronics,1.0,235.97,South,Joel K.,CUST-0027,Cash
+ORD-001416,2025-11-21,Bluetooth Speaker,Electronics,3.0,49.21,East,Amara N.,CUST-0389,Bank Transfer
+ORD-002731,2025-05-03,27-inch Monitor,Electronics,2.0,224.5,West,Sofia L.,CUST-0683,Mobile Money
+ORD-001528,2025-03-07,Laptop Stand,Accessories,6.0,33.16,East,Peter B.,CUST-0325,Cash
+ORD-002939,2025-04-19,Ink Cartridge,Stationery,1.0,37.32,Central,Miriam A.,CUST-0348,Mobile Money
+ORD-001301,2025-08-29,Laptop Stand,Accessories,2.0,33.98,East,Peter B.,CUST-0031,Card
+ORD-002884,2025-07-31,27-inch Monitor,Electronics,3.0,229.54,West,Miriam A.,CUST-0678,Mobile Money
+ORD-001604,2025-12-22,USB-C Hub,Accessories,1.0,39.01,South,Sofia L.,CUST-0503,Mobile Money
+ORD-000161,2025-07-19,Laptop Backpack,Bags,3.0,44.3,Central,Grace T.,CUST-0643,Bank Transfer
+ORD-001705,2025-05-09,Printer Paper Box,Stationery,1.0,23.45,North,Joel K.,CUST-0618,Cash
+ORD-000957,2025-12-13,Desk Lamp,Furniture,5.0,29.36,South,Amara N.,CUST-0453,Card
+ORD-002933,2025-04-25,Laptop Backpack,Bags,3.0,42.07,South,Grace T.,CUST-0678,Bank Transfer
+ORD-000878,2025-10-20,USB Flash Drive 64GB,Storage,5.0,14.3,Central,Amara N.,CUST-0006,Cash
+ORD-001920,2025-06-08,Ink Cartridge,Stationery,3.0,37.22,West,Miriam A.,CUST-0364,Card
+ORD-001885,2025-04-08,Webcam HD,Electronics,3.0,58.68,North,David M.,CUST-0021,Bank Transfer
+ORD-002201,2025-12-20,Webcam HD,Electronics,4.0,58.02,North,Sofia L.,CUST-0673,Card
+ORD-000099,2025-11-18,Mechanical Keyboard,Accessories,2.0,63.75,East,Amara N.,CUST-0414,Card
+ORD-002845,2025-09-28,Water Bottle,Lifestyle,1.0,15.61,South,Miriam A.,CUST-0276,Card
+ORD-002558,2025-07-14,Webcam HD,Electronics,1.0,53.96,North,Peter B.,CUST-0696,Mobile Money
+ORD-000254,2025-06-29,Printer Paper Box,Stationery,2.0,25.42,West,Joel K.,CUST-0083,Mobile Money
+ORD-000104,2025-06-16,Water Bottle,Lifestyle,1.0,16.19,West,David M.,CUST-0614,Mobile Money
+ORD-001446,2025-06-15,Desk Lamp,Furniture,1.0,26.92,North,Grace T.,CUST-0038,Cash
+ORD-001444,2025-05-04,Water Bottle,Lifestyle,2.0,15.14,Central,Peter B.,CUST-0379,Bank Transfer
+ORD-001649,2025-08-06,Laptop Backpack,Bags,5.0,44.78,Central,Grace T.,CUST-0348,Card
+ORD-000587,2025-10-29,Wireless Mouse,Accessories,3.0,18.27,Central,David M.,CUST-0329,Card
+ORD-000628,2025-03-07,Laptop Stand,Accessories,1.0,30.19,Central,Miriam A.,CUST-0274,Mobile Money
+ORD-001697,2025-06-25,USB-C Hub,Accessories,2.0,39.93,Central,Joel K.,CUST-0658,Cash
+ORD-002102,2025-02-18,USB-C Hub,Accessories,1.0,40.64,Central,Miriam A.,CUST-0526,Cash
+ORD-002200,2025-01-03,Mechanical Keyboard,Accessories,4.0,69.06,North,Amara N.,CUST-0119,Bank Transfer
+ORD-000404,2025-05-24,USB-C Hub,Accessories,1.0,39.99,Central,Grace T.,CUST-0283,Cash
+ORD-001155,2025-06-18,Water Bottle,Lifestyle,2.0,16.06,Central,Sofia L.,CUST-0236,Cash
+ORD-002256,2025-12-09,27-inch Monitor,Electronics,1.0,219.17,West,Joel K.,CUST-0368,Mobile Money
+ORD-001683,2025-10-20,External SSD 1TB,Storage,4.0,105.99,Central,Joel K.,CUST-0020,Bank Transfer
+ORD-002057,2025-11-28,Desk Lamp,Furniture,1.0,27.04,South,David M.,CUST-0585,Card
+ORD-002862,2025-04-22,Mechanical Keyboard,Accessories,1.0,67.96,West,Grace T.,CUST-0280,Cash
+ORD-000453,2025-12-22,Desk Lamp,Furniture,2.0,29.34,Central,Amara N.,CUST-0444,Mobile Money
+ORD-002302,2025-12-18,Laptop Backpack,Bags,1.0,40.5,Central,Joel K.,CUST-0124,Mobile Money
+ORD-001328,2025-11-05,External SSD 1TB,Storage,3.0,104.54,Central,Peter B.,CUST-0051,Mobile Money
+ORD-002050,2025-09-24,Laptop Stand,Accessories,1.0,31.94,Central,Joel K.,CUST-0003,Mobile Money
+ORD-000881,2025-02-01,Bluetooth Speaker,Electronics,-1.0,44.75,South,Sofia L.,CUST-0028,Mobile Money
+ORD-002936,2025-12-12,External SSD 1TB,Storage,5.0,109.7,Central,Joel K.,CUST-0427,Bank Transfer
+ORD-000624,2025-06-19,27-inch Monitor,Electronics,2.0,224.56,Central,Grace T.,CUST-0460,Mobile Money
+ORD-002394,2025-04-11,Desk Lamp,Furniture,4.0,30.35,West,Grace T.,CUST-0409,Bank Transfer
+ORD-002790,2025-02-14, 27-inch Monitor,Electronics,1.0,227.85,West,Amara N.,CUST-0304,Cash
+ORD-001788,2025-05-16,Ink Cartridge,Stationery,5.0,35.43,South,Miriam A.,CUST-0079,Card
+ORD-000263,2025-03-13,Webcam HD,Electronics,4.0,55.08,South,Grace T.,CUST-0148,Cash
+ORD-001635,2025-02-21,Notebook Pack,Stationery,1.0,8.92,West,Joel K.,CUST-0464,Cash
+ORD-001439,2025-10-27,Laptop Stand,Accessories,2.0,30.42,North,Peter B.,CUST-0415,Card
+ORD-002199,2025-03-09,Laptop Backpack,Bags,1.0,40.22,West,Amara N.,CUST-0399,Bank Transfer
+ORD-001970,2025-04-26,Office Chair,Furniture,4.0,184.34,North,Sofia L.,CUST-0031,Mobile Money
+ORD-002521,2025-09-20,Office Chair,Furniture,3.0,178.25,South,Grace T.,CUST-0354,Bank Transfer
+ORD-001803,2025-01-17,Bluetooth Speaker,Electronics,3.0,46.94,West,Joel K.,CUST-0343,Cash
+ORD-000641,2025-01-06,Desk Lamp,Furniture,2.0,29.23,South,David M.,CUST-0149,Mobile Money
+ORD-002386,2025-04-08,Laptop Backpack,Bags,3.0,43.92,West,David M.,CUST-0638,Bank Transfer
+ORD-002599,2025-08-11,Notebook Pack,Stationery,1.0,8.89,North,Sofia L.,CUST-0688,Cash
+ORD-002848,2025-09-08,USB Flash Drive 64GB,Storage,3.0,15.82,Central,Sofia L.,CUST-0644,Card
+ORD-001960,2025-08-26,Bluetooth Speaker,Electronics,8.0,50.15,North,David M.,CUST-0229,Bank Transfer
+ORD-000489,2025-06-15,Printer Paper Box,Stationery,2.0,22.61,North,Miriam A.,CUST-0007,Card
+ORD-001844,2025-10-22,Mechanical Keyboard,Accessories,2.0,65.99,Central,Peter B.,CUST-0566,Bank Transfer
+ORD-001735,2025-04-16,Printer Paper Box,Stationery,4.0,24.96,West,Peter B.,CUST-0602,Bank Transfer
+ORD-000147,2025-09-22,USB Flash Drive 64GB,Storage,1.0,14.62,East,Grace T.,CUST-0360,Card
+ORD-001535,2025-01-07,Office Chair,Furniture,2.0,186.83,East,Miriam A.,CUST-0329,Card
+ORD-001987,2025-07-22,USB Flash Drive 64GB,Storage,4.0,14.87,Central,Amara N.,CUST-0146,Cash
+ORD-001370,2025-10-11,Mechanical Keyboard,Accessories,1.0,64.55,Central,David M.,CUST-0549,Mobile Money
+ORD-002451,2025-10-08,Webcam HD,Electronics,2.0,51.96,West,Miriam A.,CUST-0548,Mobile Money
+ORD-002954,2025-02-12,Wireless Mouse,Accessories,1.0,19.26,South,Miriam A.,CUST-0617,Bank Transfer
+ORD-000660,2025-08-13,Webcam HD,Electronics,2.0,57.87,East,Peter B.,CUST-0323,Card
+ORD-001795,2025-10-17,Ink Cartridge,Stationery,1.0,38.38,South,Sofia L.,CUST-0038,Mobile Money
+ORD-002512,2025-09-03,Bluetooth Speaker,Electronics,4.0,44.86,West,David M.,CUST-0165,Card
+ORD-000187,2025-06-03,Notebook Pack,Stationery,1.0,9.22,North,Sofia L.,CUST-0596,Bank Transfer
+ORD-001148,2025-04-29,Printer Paper Box,Stationery,3.0,24.79,North,Joel K.,CUST-0174,Card
+ORD-000609,2025-04-13,Ink Cartridge,Stationery,4.0,34.93,South,Joel K.,CUST-0573,Mobile Money
+ORD-002192,2025-05-06,27-inch Monitor,Electronics,3.0,229.48,Central,Miriam A.,CUST-0077,Cash
+ORD-001931,2025-05-05,Laptop Backpack,Bags,3.0,43.29,East,Amara N.,CUST-0297,Card
+ORD-000198,2025-06-21,USB Flash Drive 64GB,Storage,1.0,14.31,South,Joel K.,CUST-0531,Cash
+ORD-002328,2025-08-25,Ink Cartridge,Stationery,2.0,35.72,West,Miriam A.,CUST-0461,Bank Transfer
+ORD-000294,2025-09-07,Laptop Backpack,Bags,1.0,41.14,West,Grace T.,CUST-0636,Cash
+ORD-000767,2025-07-10,27-inch Monitor,Electronics,4.0,236.95,West,Grace T.,CUST-0116,Cash
+ORD-000401,2025-07-03,Printer Paper Box,Stationery,5.0,24.79,Central,Miriam A.,CUST-0530,Mobile Money
+ORD-000123,2025-11-09,Water Bottle,Lifestyle,8.0,15.65,East,Sofia L.,CUST-0118,Cash
+ORD-000203,2025-06-19, Notebook Pack,Stationery,2.0,9.6,South,Miriam A.,CUST-0089,Card
+ORD-000836,2025-04-13,Office Chair,Furniture,3.0,194.87,North,Miriam A.,CUST-0243,Cash
+ORD-002295,2025-09-08,Laptop Stand,Accessories,4.0,30.99,West,Miriam A.,CUST-0643,Card
+ORD-001440,2025-03-05,Printer Paper Box,Stationery,3.0,22.6,West,Joel K.,CUST-0056,Bank Transfer
+ORD-001734,2025-09-19,Mechanical Keyboard,Accessories,3.0,69.35,West,Grace T.,CUST-0360,Card
+ORD-001696,2025-03-04,Webcam HD,Electronics,6.0,53.37,East,Grace T.,CUST-0347,Card
+ORD-002963,2025-10-19,Laptop Stand,Accessories,2.0,33.99,Central,Amara N.,CUST-0211,Cash
+ORD-001708,2025-08-29,USB Flash Drive 64GB,Storage,1.0,14.14,North,David M.,CUST-0186,Bank Transfer
+ORD-002931,2025-05-17,Printer Paper Box,Stationery,1.0,25.07,Central,Joel K.,CUST-0439,Card
+ORD-001154,2025-05-14,Water Bottle,Lifestyle,3.0,15.9,East,David M.,CUST-0670,Mobile Money
+ORD-001662,2025-02-03,Wireless Mouse,Accessories,2.0,19.04,South,Amara N.,CUST-0082,Cash
+ORD-002433,2025-01-21,Bluetooth Speaker,Electronics,2.0,50.14,North,Amara N.,CUST-0237,Bank Transfer
+ORD-001760,2025-12-28,Water Bottle,Lifestyle,2.0,15.84,Central,Peter B.,CUST-0574,Mobile Money
+ORD-000855,2025-08-09,Webcam HD,Electronics,2.0,58.34,West,David M.,CUST-0092,Bank Transfer
+ORD-001590,2025-07-25,27-inch Monitor,Electronics,10.0,221.67,West,Grace T.,CUST-0552,Bank Transfer
+ORD-002268,2025-11-13,27-inch Monitor,Electronics,2.0,240.09,North,Grace T.,CUST-0151,Bank Transfer
+ORD-000642,2025-10-02,Ink Cartridge,Stationery,1.0,37.77,West,Grace T.,CUST-0642,Mobile Money
+ORD-000002,2025-09-02,Wireless Mouse,Accessories,1.0,17.95,Central,Amara N.,CUST-0575,Mobile Money
+ORD-002161,2025-08-03,Ink Cartridge,Stationery,1.0,35.13,East,Grace T.,CUST-0687,Bank Transfer
+ORD-000699,2025-05-03,27-inch Monitor,Electronics,2.0,239.72,West,Sofia L.,CUST-0423,Cash
+ORD-001637,2025-04-23,Bluetooth Speaker,Electronics,2.0,50.5,Central,Grace T.,CUST-0475,Cash
+ORD-001292,2025-01-09,Laptop Stand,Accessories,1.0,33.2,West,Sofia L.,CUST-0384,Card
+ORD-002874,2025-05-17,Ink Cartridge,Stationery,5.0,38.03,South,David M.,CUST-0347,Bank Transfer
+ORD-002490,2025-04-09,USB Flash Drive 64GB,Storage,2.0,15.12,Central,David M.,CUST-0607,Bank Transfer
+ORD-001521,2025-07-09,External SSD 1TB,Storage,2.0,113.34,Central,Joel K.,CUST-0670,Mobile Money
+ORD-001854,2025-01-28,Printer Paper Box,Stationery,4.0,23.91,Central,Sofia L.,CUST-0413,Mobile Money
+ORD-001137,2025-10-23,Printer Paper Box,Stationery,6.0,23.36,Central,Miriam A.,CUST-0212,Cash
+ORD-002916,2025-02-23,Water Bottle,Lifestyle,8.0,15.22,South,Miriam A.,CUST-0087,Bank Transfer
+ORD-001632,2025-12-21,Laptop Backpack,Bags,2.0,44.39,West,Miriam A.,CUST-0369,Mobile Money
+ORD-001999,2025-04-20,Office Chair,Furniture,4.0,198.99,South,David M.,CUST-0039,Bank Transfer
+ORD-000664,2025-10-04,27-inch Monitor,Electronics,1.0,216.35,West,Peter B.,CUST-0535,Card
+ORD-000684,2025-01-18,Notebook Pack,Stationery,1.0,8.78,North,David M.,CUST-0443,Cash
+ORD-001258,2025-10-29,Water Bottle,Lifestyle,1.0,16.47,North,David M.,CUST-0421,Mobile Money
+ORD-000318,2025-11-08,Office Chair,Furniture,1.0,183.18,East,David M.,CUST-0469,Cash
+ORD-000649,2025-11-25,Ink Cartridge,Stationery,4.0,34.62,West,David M.,CUST-0125,Bank Transfer
+ORD-001435,2025-06-22,Wireless Mouse,Accessories,1.0,18.85,South,Grace T.,CUST-0371,Bank Transfer
+ORD-001480,2025-10-05,Office Chair,Furniture,1.0,199.29,Central,Grace T.,CUST-0299,Bank Transfer
+ORD-000710,2025-10-23,Desk Lamp,Furniture,1.0,29.68,East,Sofia L.,CUST-0064,Cash
+ORD-001283,2025-05-22,Laptop Stand,Accessories,8.0,32.13,East,Joel K.,CUST-0396,Card
+ORD-001769,2025-08-14,Bluetooth Speaker,Electronics,1.0,50.71,West,Miriam A.,CUST-0111,Cash
+ORD-000973,2025-12-10,Laptop Backpack,Bags,1.0,43.9,South,Miriam A.,CUST-0639,Cash
+ORD-002676,2025-03-16,Printer Paper Box,Stationery,2.0,24.05,West,Sofia L.,CUST-0033,Cash
+ORD-002681,2025-11-26,Bluetooth Speaker,Electronics,2.0,47.05,East,Joel K.,CUST-0584,Card
+ORD-001307,2025-10-24,Wireless Mouse,Accessories,2.0,17.52,West,Peter B.,CUST-0129,Cash
+ORD-001401,2025-10-12,Office Chair,Furniture,4.0,185.45,North,Miriam A.,CUST-0220,Mobile Money
+ORD-001409,2025-02-27,Laptop Stand,Accessories,1.0,32.73,North,Grace T.,CUST-0100,Bank Transfer
+ORD-002238,2025-01-26,Mechanical Keyboard,Accessories,2.0,66.52,West,Sofia L.,CUST-0694,Card
+ORD-001497,2025-05-22,Office Chair,Furniture,3.0,180.4,South,Joel K.,CUST-0007,Bank Transfer
+ORD-002039,2025-04-18,Laptop Backpack,Bags,1.0,42.39,West,Joel K.,CUST-0532,Card
+ORD-001530,2025-11-13,Laptop Stand,Accessories,2.0,34.01,North,Joel K.,CUST-0668,Bank Transfer
+ORD-001664,2025-05-22,Mechanical Keyboard,Accessories,2.0,65.38,North,David M.,CUST-0203,Bank Transfer
+ORD-001355,2025-12-18,Bluetooth Speaker,Electronics,1.0,49.79,North,Grace T.,CUST-0209,Bank Transfer
+ORD-002942,2025-05-07,Office Chair,Furniture,2.0,185.73,West,David M.,CUST-0685,Card
+ORD-002962,2025-08-29,27-inch Monitor,Electronics,10.0,221.5,South,Amara N.,CUST-0436,Card
+ORD-001644,2025-12-12,Bluetooth Speaker,Electronics,3.0,50.57,East,Sofia L.,CUST-0068,Bank Transfer
+ORD-001052,2025-09-28,Mechanical Keyboard,Accessories,8.0,67.31,West,David M.,CUST-0622,Cash
+ORD-000796,2025-11-13,Ink Cartridge,Stationery,1.0,35.39,North,Sofia L.,CUST-0322,Card
+ORD-002694,2025-04-13,Water Bottle,Lifestyle,3.0,-12.5,North,Sofia L.,CUST-0415,Cash
+ORD-001598,2025-12-17,Wireless Mouse,Accessories,1.0,18.32,North,Sofia L.,CUST-0582,Bank Transfer
+ORD-002605,2025-07-11,Laptop Backpack,Bags,3.0,41.57,South,Miriam A.,CUST-0177,Bank Transfer
+ORD-002730,2025-03-07,27-inch Monitor,Electronics,1.0,216.4,West,Sofia L.,CUST-0475,Cash
+ORD-002626,2025-12-30,Wireless Mouse,Accessories,2.0,19.69,North,Peter B.,CUST-0408,Bank Transfer
+ORD-001820,2025-03-14,Water Bottle,Lifestyle,5.0,16.98,South,Amara N.,CUST-0003,Cash
+ORD-001723,2025-03-22,Water Bottle,Lifestyle,3.0,15.89,West,Amara N.,CUST-0617,Bank Transfer
+ORD-001184,2025-07-21,Laptop Backpack,Bags,1.0,40.46,North,Joel K.,CUST-0444,Mobile Money
+ORD-002573,2025-07-04,Printer Paper Box,Stationery,1.0,22.74,South,Amara N.,CUST-0207,Card
+ORD-001060,2025-04-10,USB-C Hub,Accessories,1.0,38.88,Central,David M.,CUST-0119,Bank Transfer
+ORD-000541,2025-02-06,Water Bottle,Lifestyle,1.0,15.49,Central,Grace T.,CUST-0188,Mobile Money
+ORD-001679,2025-09-22,Ink Cartridge,Stationery,3.0,37.15,Central,Grace T.,CUST-0350,Bank Transfer
+ORD-002797,2025-10-04,USB-C Hub,Accessories,4.0,41.92,Central,Miriam A.,CUST-0408,Cash
+ORD-002906,2025-06-03,Notebook Pack,Stationery,3.0,9.2,Central,Peter B.,CUST-0343,Bank Transfer
+ORD-002533,2025-04-04,Wireless Mouse,Accessories,1.0,18.64,Central,Amara N.,CUST-0125,Bank Transfer
+ORD-001758,2025-09-14,USB-C Hub,Accessories,2.0,40.75,South,Sofia L.,CUST-0657,Card
+ORD-001924,2025-05-05,USB-C Hub,Accessories,1.0,39.18,East,Peter B.,CUST-0175,Bank Transfer
+ORD-000096,2025-12-22,USB Flash Drive 64GB,Storage,2.0,15.58,South,Joel K.,CUST-0532,Cash
+ORD-001021,2025-05-24,Ink Cartridge,Stationery,4.0,37.25,North,David M.,CUST-0384,Cash
+ORD-000564,2025-12-23,Webcam HD,Electronics,2.0,54.95,Central,Joel K.,CUST-0537,Bank Transfer
+ORD-002791,2025-11-05,Ink Cartridge,Stationery,5.0,36.24,South,David M.,CUST-0362,Card
+ORD-000864,2025-01-15,Water Bottle,Lifestyle,2.0,17.03,Central,Peter B.,CUST-0006,Bank Transfer
+ORD-001485,2025-09-28,Water Bottle,Lifestyle,1.0,16.91,North,Peter B.,CUST-0067,Bank Transfer
+ORD-001882,2025-11-13,USB Flash Drive 64GB,Storage,1.0,14.52,South,Amara N.,CUST-0241,Cash
+ORD-001039,2025-08-07,Ink Cartridge,Stationery,1.0,36.34,East,Miriam A.,CUST-0546,Cash
+ORD-000207,2025-03-11,External SSD 1TB,Storage,1.0,115.79,East,Sofia L.,CUST-0081,Bank Transfer
+ORD-000393,2025-01-11,Bluetooth Speaker,Electronics,8.0,47.18,Central,Peter B.,CUST-0554,Bank Transfer
+ORD-002843,2025-01-02,Desk Lamp,Furniture,3.0,28.79,Central,David M.,CUST-0032,Bank Transfer
+ORD-000871,2025-10-26,Notebook Pack,Stationery,3.0,8.96,West,Amara N.,CUST-0042,Bank Transfer
+ORD-000398,2025-03-02,USB Flash Drive 64GB,Storage,2.0,14.6,East,Miriam A.,CUST-0064,Mobile Money
+ORD-002815,2025-01-13,Mechanical Keyboard,Accessories,1.0,63.74,Central,Miriam A.,CUST-0312,Mobile Money
+ORD-002900,2025-11-30,Mechanical Keyboard,Accessories,1.0,68.26,South,David M.,CUST-0697,Mobile Money
+ORD-001029,2025-06-16,Laptop Backpack,Bags,2.0,42.81,West,Sofia L.,CUST-0160,Cash
+ORD-002691,2025-07-30,Webcam HD,Electronics,2.0,52.48,Central,Grace T.,CUST-0343,Card
+ORD-001486,2025-04-07,External SSD 1TB,Storage,1.0,111.08,North,Peter B.,CUST-0202,Bank Transfer
+ORD-002661,2025-11-13,Webcam HD,Electronics,2.0,52.92,East,Amara N.,CUST-0109,Mobile Money
+ORD-000961,2025-08-04,Laptop Stand,Accessories,1.0,33.05,Central,Sofia L.,CUST-0199,Mobile Money
+ORD-001571,2025-11-24,Laptop Backpack,Bags,4.0,40.86,East,Grace T.,CUST-0255,Bank Transfer
+ORD-002774,2025-07-03,Office Chair,Furniture,2.0,179.46,Central,Miriam A.,CUST-0348,Mobile Money
+ORD-001896,2025-01-04,Wireless Mouse,Accessories,3.0,17.85,South,David M.,CUST-0047,Mobile Money
+ORD-002732,2025-03-02,USB Flash Drive 64GB,Storage,1.0,15.11,South,David M.,CUST-0421,Mobile Money
+ORD-002147,2025-03-03,Webcam HD,Electronics,2.0,58.0,East,Joel K.,CUST-0014,Bank Transfer
+ORD-000805,2025-02-02,USB-C Hub,Accessories,2.0,37.27,South,Joel K.,CUST-0620,Bank Transfer
+ORD-001752,2025-03-16,Water Bottle,Lifestyle,2.0,15.25,West,Miriam A.,CUST-0649,Card
+ORD-002455,2025-11-26,Mechanical Keyboard,Accessories,1.0,65.86,North,Grace T.,CUST-0436,Cash
+ORD-000503,2025-10-07,Mechanical Keyboard,Accessories,2.0,65.68,Central,Joel K.,CUST-0670,Mobile Money
+ORD-000780,2025-06-24,Wireless Mouse,Accessories,4.0,17.78,North,David M.,CUST-0328,Cash
+ORD-001864,2025-12-06,Bluetooth Speaker,Electronics,2.0,45.14,North,Grace T.,CUST-0319,Card
+ORD-000201,2025-09-23,USB-C Hub,Accessories,2.0,38.62,East,Sofia L.,CUST-0162,Mobile Money
+ORD-002183,2025-05-05,Printer Paper Box,Stationery,2.0,24.33,Central,Joel K.,CUST-0164,Cash
+ORD-002089,2025-06-03,External SSD 1TB,Storage,4.0,112.37,West,Amara N.,CUST-0033,Card
+ORD-002279,2025-06-18,Wireless Mouse,Accessories,2.0,19.62,Central,Grace T.,CUST-0521,Card
+ORD-001797,2025-01-16,Bluetooth Speaker,Electronics,4.0,45.98,South,Joel K.,CUST-0605,Mobile Money
+ORD-000379,2025-08-07,Water Bottle,Lifestyle,2.0,15.41,North,Amara N.,CUST-0058,Mobile Money
+ORD-002337,2025-10-26,USB-C Hub,Accessories,4.0,38.7,North,Joel K.,CUST-0584,Mobile Money
+ORD-000419,2025-07-13,Notebook Pack,Stationery,2.0,8.71,East,Peter B.,CUST-0534,Cash
+ORD-001699,2025-04-21,Wireless Mouse,Accessories,0.0,19.42,South,Joel K.,CUST-0044,Card
+ORD-000392,2025-05-20,Water Bottle,Lifestyle,3.0,15.94,South,Miriam A.,CUST-0445,Mobile Money
+ORD-002641,2025-02-27,USB Flash Drive 64GB,Storage,4.0,14.27,Central,Amara N.,CUST-0455,Bank Transfer
+ORD-001523,2025-04-06,Laptop Stand,Accessories,1.0,32.58,North,Sofia L.,CUST-0131,Bank Transfer
+ORD-001163,,Mechanical Keyboard,Accessories,5.0,61.36,South,Miriam A.,CUST-0165,Card
+ORD-001496,2025-09-11,Water Bottle,Lifestyle,2.0,17.02,East,Grace T.,CUST-0545,Mobile Money
+ORD-002696,2025-12-21,USB Flash Drive 64GB,Storage,4.0,15.29,Central,Joel K.,CUST-0521,Cash
+ORD-002028,2025-10-14,Notebook Pack,Stationery,4.0,8.82,Central,Grace T.,CUST-0183,Mobile Money
+ORD-001153,2025-08-31,USB Flash Drive 64GB,Storage,1.0,14.72,South,David M.,CUST-0395,Bank Transfer
+ORD-001368,2025-01-09,Bluetooth Speaker,Electronics,5.0,49.48,North,Miriam A.,CUST-0331,Bank Transfer
+ORD-002569,2025-10-17,USB Flash Drive 64GB,Storage,,14.91,North,Joel K.,CUST-0415,Bank Transfer
+ORD-000065,2025-07-09,Ink Cartridge,Stationery,2.0,36.16,West,Peter B.,CUST-0170,Cash
+ORD-002063,2025-06-05,Webcam HD,Electronics,1.0,56.1,North,Joel K.,CUST-0140,Bank Transfer
+ORD-001181,2025-07-17,Desk Lamp,Furniture,2.0,29.32,Central,Joel K.,CUST-0270,Card
+ORD-000493,2025-02-01,Printer Paper Box,Stationery,2.0,25.51,East,David M.,CUST-0353,Mobile Money
+ORD-000380,2025-09-01,Water Bottle,Lifestyle,1.0,16.95,South,Sofia L.,CUST-0134,Bank Transfer
+ORD-002236,2025-03-13,Webcam HD,Electronics,1.0,54.97,East,David M.,CUST-0597,Card
+ORD-000764,2025-04-06,Bluetooth Speaker,Electronics,2.0,44.86,East,Grace T.,CUST-0152,Bank Transfer
+ORD-002265,2025-12-03,Printer Paper Box,Stationery,2.0,22.75,Central,Grace T.,CUST-0261,Bank Transfer
+ORD-000792,2025-03-12,Wireless Mouse,Accessories,1.0,19.42,East,Miriam A.,CUST-0357,Bank Transfer
+ORD-001077,2025-05-24,Laptop Stand,Accessories,4.0,30.83,West,Peter B.,CUST-0445,Bank Transfer
+ORD-000879,2025-02-06,Water Bottle,Lifestyle,2.0,15.88,Central,Peter B.,CUST-0499,Bank Transfer
+ORD-000338,2025-12-20,Laptop Backpack,Bags,5.0,39.95,North,David M.,CUST-0127,Cash
+ORD-002768,2025-09-20,USB-C Hub,Accessories,2.0,40.84,East,Sofia L.,CUST-0228,Card
+ORD-002344,2025-04-02,Office Chair,Furniture,1.0,188.29,East,Joel K.,CUST-0066,Mobile Money
+ORD-001017,2025-09-12,Mechanical Keyboard,Accessories,1.0,62.94,East,Sofia L.,CUST-0614,Cash
+ORD-001276,2025-11-19,Water Bottle,Lifestyle,3.0,16.84,North,Peter B.,CUST-0599,Card
+ORD-000456,2025-12-02,External SSD 1TB,Storage,2.0,107.83,South,Amara N.,CUST-0471,Cash
+ORD-000816,2025-09-14,Ink Cartridge,Stationery,1.0,37.61,Central,Amara N.,CUST-0325,Cash
+ORD-002318,2025-01-06,Ink Cartridge,Stationery,8.0,37.47,North,Miriam A.,CUST-0668,Cash
+ORD-000996,2025-07-12,Wireless Mouse,Accessories,1.0,19.46,West,Joel K.,CUST-0161,Card
+ORD-001982,2025-07-30,USB-C Hub,Accessories,2.0,38.18,South,Peter B.,CUST-0105,Card
+ORD-000202,2025-11-17,External SSD 1TB,Storage,1.0,105.31,South,David M.,CUST-0506,Card
+ORD-000162,2025-03-03,Water Bottle,Lifestyle,2.0,15.67,East,Miriam A.,CUST-0058,Bank Transfer
+ORD-001580,2025-05-08,Laptop Backpack,Bags,4.0,40.82,South,Peter B.,CUST-0281,Card
+ORD-002778,2025-12-17,Printer Paper Box,Stationery,1.0,25.46,North,Joel K.,CUST-0243,Card
+ORD-002450,2025-04-17,Wireless Mouse,Accessories,1.0,17.69,South,Joel K.,CUST-0086,Card
+ORD-000703,2025-06-11,Mechanical Keyboard,Accessories,1.0,65.58,East,Sofia L.,CUST-0443,Bank Transfer
+ORD-001501,2025-08-05,Desk Lamp,Furniture,1.0,29.63,South,Sofia L.,CUST-0162,Mobile Money
+ORD-001130,2025-07-18,USB-C Hub,Accessories,1.0,40.98,West,Miriam A.,CUST-0400,Cash
+ORD-002614,2025-10-17,Laptop Backpack,Bags,2.0,41.33,East,David M.,CUST-0447,Card
+ORD-001022,2025-05-05,Printer Paper Box,Stationery,1.0,22.68,Central,Joel K.,CUST-0337,Mobile Money
+ORD-001586,2025-02-26,Water Bottle,Lifestyle,2.0,15.26,Central,David M.,CUST-0357,Mobile Money
+ORD-001956,2025-11-10,Webcam HD,Electronics,6.0,56.8,West,Grace T.,CUST-0597,Mobile Money
+ORD-002254,2025-10-30,Laptop Stand,Accessories,1.0,34.13,East,Miriam A.,CUST-0617,Mobile Money
+ORD-000035,2025-03-27,Office Chair,Furniture,3.0,201.92,Central,Amara N.,CUST-0684,Bank Transfer
+ORD-000776,2025-03-13,Office Chair,Furniture,2.0,178.7,East,Sofia L.,CUST-0600,Bank Transfer
+ORD-002557,2025-12-10,Water Bottle,Lifestyle,4.0,15.58,East,Miriam A.,CUST-0432,Card
+ORD-001479,2025-05-15,Desk Lamp,Furniture,4.0,29.38,Central,Grace T.,CUST-0609,Card
+ORD-001391,2025-08-09,Water Bottle,Lifestyle,2.0,16.99,South,David M.,CUST-0537,Cash
+ORD-002140,2025-07-08,Notebook Pack,Stationery,1.0,8.92,West,Sofia L.,CUST-0134,Mobile Money
+ORD-001364,2025-09-16,Webcam HD,Electronics,5.0,57.7,East,Peter B.,CUST-0497,Cash
+ORD-002946,2025-07-13,Mechanical Keyboard,Accessories,2.0,62.49,North,Amara N.,CUST-0281,Cash
+ORD-002613,2025-07-09,Wireless Mouse,Accessories,1.0,19.03,East,Joel K.,CUST-0462,Card
+ORD-002825,2025-09-30,Laptop Stand,Accessories,1.0,31.28,East,David M.,CUST-0258,Card
+ORD-002042,2025-08-25,Laptop Backpack,Bags,2.0,43.07,South,Peter B.,CUST-0105,Cash
+ORD-000242,2025-10-01,Desk Lamp,Furniture,4.0,28.89,South,David M.,CUST-0626,Cash
+ORD-002062,2025-07-22,27-inch Monitor,Electronics,1.0,233.3,North,Amara N.,CUST-0116,Cash
+ORD-002364,2025-07-31,Wireless Mouse,Accessories,1.0,19.12,South,Peter B.,CUST-0136,Bank Transfer
+ORD-000601,2025-10-31,USB Flash Drive 64GB,Storage,6.0,15.09,Central,Miriam A.,CUST-0159,Card
+ORD-002436,2025-11-05,Laptop Stand,Accessories,1.0,31.51,Central,Joel K.,CUST-0490,Mobile Money
+ORD-001298,2025-03-17,Office Chair,Furniture,1.0,189.91,North,Miriam A.,CUST-0554,Bank Transfer
+ORD-002215,2025-02-13,Webcam HD,Electronics,1.0,53.0,North,Miriam A.,CUST-0035,Bank Transfer
+ORD-002889,2025-09-09,External SSD 1TB,Storage,2.0,113.75,North,Joel K.,CUST-0213,Bank Transfer
+ORD-002069,2025-10-27,USB-C Hub,Accessories,4.0,40.91,North,Sofia L.,CUST-0220,Bank Transfer
+ORD-000647,2025-05-03,Mechanical Keyboard,Accessories,1.0,69.49,South,Peter B.,CUST-0292,Mobile Money
+ORD-001529,2025-03-03,Notebook Pack,Stationery,2.0,9.05,West,Amara N.,CUST-0008,Cash
+ORD-002880,2025-11-07,Printer Paper Box,Stationery,2.0,23.95,East,Peter B.,CUST-0403,Card
+ORD-001268,2025-06-29,Laptop Stand,Accessories,5.0,33.91,Central,Grace T.,CUST-0178,Cash
+ORD-001900,2025-10-29,Ink Cartridge,Stationery,1.0,37.94,South,Amara N.,CUST-0158,Cash
+ORD-000563,2025-11-11,Water Bottle,Lifestyle,2.0,16.85,East,Miriam A.,CUST-0456,Mobile Money
+ORD-002735,2025-04-25,Water Bottle,Lifestyle,5.0,15.87,Central,Joel K.,CUST-0508,Cash
+ORD-000190,2025-08-27,Water Bottle,Lifestyle,1.0,16.61,South,Grace T.,CUST-0366,Card
+ORD-001807,2025-02-13,USB Flash Drive 64GB,Storage,2.0,14.17,East,Amara N.,CUST-0137,Mobile Money
+ORD-000976,2025-11-10,27-inch Monitor,Electronics,1.0,-5.0,East,Sofia L.,CUST-0130,Cash
+ORD-002748,2025-11-01,Office Chair,Furniture,1.0,200.74,West,Grace T.,CUST-0124,Mobile Money
+ORD-002048,2025-05-31,Office Chair,Furniture,1.0,180.66,West,Peter B.,CUST-0505,Mobile Money
+ORD-002559,2025-11-22,Webcam HD,Electronics,2.0,58.75,Central,Joel K.,,Cash
+ORD-001083,2025-12-22,Wireless Mouse,Accessories,1.0,17.5,Central,Sofia L.,CUST-0301,Cash
+ORD-000475,2025-12-13,Ink Cartridge,Stationery,8.0,38.94,East,Miriam A.,CUST-0056,Card
+ORD-002905,2025-03-26,Printer Paper Box,Stationery,4.0,22.9,West,David M.,CUST-0502,Mobile Money
+ORD-000748,2025-04-03,Wireless Mouse,Accessories,2.0,18.12,West,Sofia L.,CUST-0585,Card
+ORD-002301,2025-04-08,Ink Cartridge,Stationery,2.0,36.72,North,Joel K.,CUST-0407,Card
+ORD-000022,2025-11-03,External SSD 1TB,Storage,1.0,109.34,Central,David M.,CUST-0585,Cash
+ORD-000460,2025-11-11,Water Bottle,Lifestyle,3.0,15.8,West,Amara N.,CUST-0100,Mobile Money
+ORD-001185,2025-06-03,Desk Lamp,Furniture,1.0,29.03,South,Peter B.,CUST-0488,Card
+ORD-002325,2025-03-04,27-inch Monitor,Electronics,1.0,218.86,North,Grace T.,CUST-0025,Bank Transfer
+ORD-000956,2025-11-20,Laptop Backpack,Bags,4.0,42.89,Central,Amara N.,CUST-0088,Card
+ORD-001216,2025-07-20,Wireless Mouse,Accessories,1.0,19.17,North,David M.,CUST-0621,Card
+ORD-002434,2025-12-10,USB Flash Drive 64GB,Storage,1.0,15.25,North,Joel K.,CUST-0496,Bank Transfer
+ORD-002854,2025-04-17,27-inch Monitor,Electronics,4.0,224.79,Central,Sofia L.,CUST-0406,Bank Transfer
+ORD-001516,2025-08-02,Desk Lamp,Furniture,4.0,28.61,Central,Grace T.,CUST-0650,Card
+ORD-002392,2025-08-09,Mechanical Keyboard,Accessories,2.0,69.44,South,Sofia L.,CUST-0690,Card
+ORD-000770,2025-08-15,USB-C Hub,Accessories,8.0,39.16,West,Grace T.,CUST-0618,Card
+ORD-001686,2025-06-25,Mechanical Keyboard,Accessories,2.0,62.98,North,Grace T.,CUST-0365,Cash
+ORD-000131,2025-12-12,Notebook Pack,Stationery,1.0,8.77,North,Sofia L.,CUST-0466,Card
+ORD-002920,2025-09-21,Wireless Mouse,Accessories,1.0,,Central,Peter B.,CUST-0203,Mobile Money
+ORD-002136,2025-11-10,USB Flash Drive 64GB,Storage,1.0,14.66,West,Joel K.,CUST-0699,Bank Transfer
+ORD-001483,2025-08-09,Notebook Pack,Stationery,3.0,9.32,Central,Joel K.,CUST-0489,Mobile Money
+ORD-000331,2025-07-01,Ink Cartridge,Stationery,1.0,37.58,South,Peter B.,CUST-0310,Mobile Money
+ORD-001239,2025-08-08,Water Bottle,Lifestyle,3.0,17.07,East,Sofia L.,CUST-0495,Mobile Money
+ORD-000467,2025-12-30,External SSD 1TB,Storage,1.0,116.11,East,Joel K.,CUST-0137,Mobile Money
+ORD-002170,2025-01-30,Webcam HD,Electronics,6.0,55.74,South,Miriam A.,CUST-0528,Card
+ORD-001639,2025-12-31,Ink Cartridge,Stationery,1.0,35.34,Central,David M.,CUST-0676,Cash
+ORD-001096,2025-06-24,USB Flash Drive 64GB,Storage,1.0,,East,Peter B.,CUST-0256,Cash
+ORD-001131,2025-09-07,Webcam HD,Electronics,1.0,,Central,Peter B.,CUST-0010,Cash
+ORD-001295,2025-02-01,Laptop Stand,Accessories,1.0,33.45,North,Grace T.,CUST-0418,Card
+ORD-000861,2025-04-10,Webcam HD,Electronics,4.0,57.05,East,Miriam A.,CUST-0680,Mobile Money
